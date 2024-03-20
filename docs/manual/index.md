@@ -211,3 +211,51 @@ Agora, para dar prosseguimento nas próximas etapas de configuração da máquin
 Após a água circular internamente pelas mangueiras da máquina, confira novamente o reservatório interno e adicione o restante da água desmineralizada.
 
 Quantidade total 3,2L.
+
+Está feito! Agora sua máquina a laser está pronta para iniciar os cortes e gravações.
+
+!!! warning "Atenção"
+    
+    Certifique-se de que na mangueira por onde passa a água desmineralizada não há bolhas de ar.
+    Estas bolhas de ar são extremamente perigosas ao laser de CO2.
+
+    Caso haja, confira em nossa base de conhecimentos o procedimento para remoção das bolhas.
+
+## Resulução de Problemas
+
+Consulte a base de conhecimentos online na secção [Troubleshooting] para mais informações detalhadas.
+
+[Troubleshooting]: https://gadgetpluskdb.github.io/Carbon-FAQS/troubleshooting/corte-diferente/ajustar-correias/
+
+Lá poderás encontrar instruções de funcionamento, segurança, dicas de utilização e resolução de possíveis
+problemas.
+Poderá obter também as versões mais recentes dos guias e do software.
+Em caso de dúvidas adicionais, a nossa equipa de suporte está à vossa disposição para auxiliar.
+
+mailto: suporte@gadgetplus.pt
+
+## GARANTIA
+
+Este produto é fabricado com base estrita no sistema de controle de qualidade da Gadget Lda.
+
+Se o produto falhar dentro de três (3) anos a contar da data da compra, em condições de uso normal, a Gadget Lda reparará ou substituirá gratuitamente o produto das seguintes formas:
+
+* Usando peças de substituição novas ou restauradas.
+* Trocando o produto por um produto novo ou que tenha sido fabricado com peças novas ou peças usadas aproveitáveis, que tenha funcionamento no mínimo equivalente à do produto original.
+
+O comprovativo da data de compra deve ser confirmado, e enviado juntamente com uma cópia do documento de compra original. A garantia é válida sob condições normais de uso. A garantia compreende falha no produto Gadget Plus, Lda que poderia estar relacionada ao material e/ou a erros de fabricação. A garantia é válida apenas no país de compra.
+
+A garantia não é válida nos seguintes casos:
+
+* Se o usuário utilizar materiais proibidos.
+* Se o usuário deixar a máquina trabalhando sem supervisão.
+* Se o produto estiver quebrado devido a manuseio incorreto ou funcionamento incorreto.
+* Se o produto tiver sido exposto a temperaturas extremas, a calamidade ou a choque de alta tensão.
+* Se o produto tiver sido modificado, consertado ou desmontado por pessoal não autorizado.
+* Nestes casos, os custos do frete, reparação das peças e ou reposição não estão incluídos na garantia.
+
+[www.gadgetplus.pt]
+
+[www.gadgetplus.pt]: www.gadgetplus.pt
+
+mailto: suporte@gadgetplus.pt
