@@ -206,14 +206,8 @@ Agora, para dar prosseguimento nas próximas etapas de configuração da máquin
 2. Com o programa aberto, conecte-se via Wifi ou cabo USB. Confira a seguir como funciona cada tipo de conexão:
 
 
+![](../images/ImgManual_02.png){ align=left }
 
+Após a água circular internamente pelas mangueiras da máquina, confira novamente o reservatório interno e adicione o restante da água desmineralizada.
 
-Testar teclas ++ctrl+alt+delete++ isto foi um teste para informar que é preciso carregar nas teclas
-
-Botões
-
-[Isto é um botão](https://gadgetplus.pt/){ .md-button }
-
-[Isto tambem é um botão](#){ .md-button .md-button--primary }
-
-[Botão com icon :fontawesome-solid-paper-plane:](#){ .md-button }
+Quantidade total 3,2L.

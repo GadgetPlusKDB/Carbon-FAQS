@@ -8,7 +8,7 @@ copyright: |
   &copy; 2024 <a href="https://gadgetplus.pt/" target="_blank" rel="noopener">Gadget Plus, LDA</a>
 
 repo_name: "CarbonFAQS"
-repo_url: "https://github.com/GadgetPlusKDB/CarbonFAQS"
+repo_url: "https://github.com/GadgetPlusKDB/Carbon-FAQS"
 
 theme:
   logo: assets/logo.svg
@@ -205,6 +205,7 @@ nav:
     - Software:
       - Barra não Abre: troubleshooting/software/barra-não-abre.md
       - Sem Preview: troubleshooting/software/sem-preview.md
+      - Imagem da Camera Preta: troubleshooting/software/camera-mostra-preto.md
   - Downloads:
     - transferencias/index.md
   - Truques & Dicas: 
