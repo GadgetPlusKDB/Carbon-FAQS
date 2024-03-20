@@ -219,7 +219,10 @@ Está feito! Agora sua máquina a laser está pronta para iniciar os cortes e gr
     Certifique-se de que na mangueira por onde passa a água desmineralizada não há bolhas de ar.
     Estas bolhas de ar são extremamente perigosas ao laser de CO2.
 
-    Caso haja, confira em nossa base de conhecimentos o procedimento para remoção das bolhas.
+    Caso haja, confira em nossa base de conhecimentos o procedimento para [remoção das bolhas].
+
+[remoção das bolhas]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/tenho-bolhas/
+    
 
 ## Resulução de Problemas
 
