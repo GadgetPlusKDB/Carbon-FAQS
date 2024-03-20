@@ -66,7 +66,7 @@ O que vem com a sua Carbon?
 
 * Posicione a máquina em uma superfície firme e plana.
 * É importante escolher um local próximo a uma janela ou saída de ar.
-* Se você planeja usar sua Carbon conectada à rede Wi-Fi da sua casa, escolha um local próximo ao seu router e com bom sinal.
+* Se você planeja usar sua Carbon conectada à rede Wi-Fi da sua casa, escolha um local próximo ao seu router para obter um bom sinal.
 
 ## Cuidando da exaustão
 
@@ -93,9 +93,9 @@ O que vem com a sua Carbon?
 
 * Abra a tampa da Carbon.
 * Remova a fita de fixação da colmeia.
-* Posicione-a no fundo da máquina, garantindo que o lado preto esteja para cima. Pode ver informação mais detalhada [aqui].
+* Posicione-a no fundo da máquina, garantindo que o lado preto esteja para cima. Pode ver informação mais detalhada secção [colmeia].
 
-[aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-passos/colmeia/
+[colmeia]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-passos/colmeia/
 
 ## Conectando à rede elétrica
 
@@ -107,9 +107,9 @@ O que vem com a sua Carbon?
 </figure>
 
 * Conecte o cabo de alimentação entre a saída traseira da máquina e uma tomada comum de 10A com a tensão especificada na sua máquina 220V.
-* É essencial que a rede elétrica tenha aterramento. A Carbon pode apresentar problemas no seu funcionamento e até mesmo ter componentes danificados se for ligada a uma instalação elétrica sem aterramento. Consulte mais informações sobre aterramento [aqui].
+* É essencial que a rede elétrica tenha aterramento. A Carbon pode apresentar problemas no seu funcionamento e até mesmo ter componentes danificados se for ligada a uma instalação elétrica sem aterramento. Consulte mais informações na nossa secção [segurança] "Instruções de Tomadas".
 
-[aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/seguran%C3%A7a/aterramento-tomadas/
+[segurança]: https://gadgetpluskdb.github.io/Carbon-FAQS/seguran%C3%A7a/aterramento-tomadas/
 
 * Ligue a Carbon.
 
@@ -120,6 +120,6 @@ Redes elétricas antigas podem não ter aterramento, então certifique-se disso.
 Tomadas com apenas dois pinos não têm aterramento. Não use adaptadores na sua Carbon para esse tipo de tomada.
 Neste artigo, aprendemos como instalar todos os componentes da nossa Carbon. A próxima etapa é prepará-la para uso, enchendo o reservatório de água!
 
-Não deixe de acompanhar o próximo artigo desta série: [Enchendo o Reservatório de Água].
+Não deixe de acompanhar o próximo artigo desta série: [Encher Reservatório].
 
-[Enchendo o Reservatório de Água]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-passos/encher-reservat%C3%B3rio/
+[Encher Reservatório]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-passos/encher-reservat%C3%B3rio/
