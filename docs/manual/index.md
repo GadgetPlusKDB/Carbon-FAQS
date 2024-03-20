@@ -235,7 +235,9 @@ problemas.
 Poderá obter também as versões mais recentes dos guias e do software.
 Em caso de dúvidas adicionais, a nossa equipa de suporte está à vossa disposição para auxiliar.
 
-mailto: suporte@gadgetplus.pt
+[suporte@gadgetplus.pt]
+
+[suporte@gadgetplus.pt]: mailto:suporte@gadgetplus.pt
 
 ## GARANTIA
 
@@ -261,4 +263,6 @@ A garantia não é válida nos seguintes casos:
 
 [www.gadgetplus.pt]: www.gadgetplus.pt
 
-mailto: suporte@gadgetplus.pt
+[suporte@gadgetplus.pt]
+
+[suporte@gadgetplus.pt]: mailto:suporte@gadgetplus.pt
