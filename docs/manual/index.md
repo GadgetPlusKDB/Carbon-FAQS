@@ -205,8 +205,7 @@ Agora, para dar prosseguimento nas próximas etapas de configuração da máquin
 1. Faça o download do Carbon Studio através do nosso site: www.gadgetplus.pt
 2. Com o programa aberto, conecte-se via Wifi ou cabo USB. Confira a seguir como funciona cada tipo de conexão:
 
-
-![](../images/ImgManual_02.png){ align=left }
+![](../images/ImgManual_13.png){ align=left }
 
 Após a água circular internamente pelas mangueiras da máquina, confira novamente o reservatório interno e adicione o restante da água desmineralizada.
 
@@ -239,7 +238,7 @@ Em caso de dúvidas adicionais, a nossa equipa de suporte está à vossa disposi
 
 [suporte@gadgetplus.pt]: mailto:suporte@gadgetplus.pt
 
-## GARANTIA
+## Garantia
 
 Este produto é fabricado com base estrita no sistema de controle de qualidade da Gadget Lda.
 
