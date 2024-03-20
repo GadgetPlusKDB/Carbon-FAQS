@@ -7,7 +7,7 @@ site_description: "Centro de conhecimento Gadget Plus.LDA"
 copyright: |
   &copy; 2024 <a href="https://gadgetplus.pt/" target="_blank" rel="noopener">Gadget Plus, LDA</a>
 
-repo_name: "Carbon_FAQS"
+repo_name: "CarbonFAQS"
 repo_url: "https://github.com/GadgetPlusKDB/CarbonFAQS"
 
 theme:
