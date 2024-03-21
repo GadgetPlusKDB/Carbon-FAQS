@@ -16,6 +16,8 @@ A água desempenha um papel fundamental no funcionamento adequado da sua Carbon.
 
 Muitas vezes surgem dúvidas relacionadas à água na Carbon. Para esclarecer melhor esse tema, elaboramos o artigo [Manutenção - Água na Carbon], onde você encontrará respostas para perguntas como:
 
+[Manutenção - Água na Carbon]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/
+
 Por que é necessário colocar água na minha Carbon?
 Que tipo de água devo usar?
 O que fazer se eu não tiver água especial disponível?
@@ -27,6 +29,13 @@ Você pode conferir o vídeo abaixo sobre como encher o reservatório da máquin
 
 ## Enchendo o Reservatório da Carbon
 
+<figure markdown="span">
+
+  ![FrenteMaq](../images/ImgManual_18.png){ width="400" }
+  <figcaption></figcaption>
+
+</figure>
+
 Este procedimento deve ser realizado com a máquina ligada.
 
 * Usando o funil, adicione cuidadosamente cerca de 3 litros de água ao reservatório.
@@ -34,16 +43,39 @@ Este procedimento deve ser realizado com a máquina ligada.
 * Com a Carbon ligada, a água deverá circular pela parte interna do tubo.
 * Complete o reservatório com água até que fique completamente cheio, o que deve totalizar cerca de 3.2 litros de água. Confira visualmente o nível da água.
 
+<figure markdown="span">
+
+  ![FrenteMaq](../images/ImgManual_19.png){ width="650" }
+  <figcaption></figcaption>
+
+</figure>
+
 ## Identificando a Circulação da Água
 
 É importante garantir que a água esteja circulando pelo tubo. Aqui estão algumas maneiras de verificar isso:
 
 Conferência Visual: Tente observar se a água está passando pelo tubo, embora isso possa ser difícil devido à natureza translúcida da água.
 Bolhas de Ar no Tubo Laser
-Um problema comum é a formação de bolhas de ar no tubo laser durante o processo de enchimento de água. Isso pode ser prejudicial ao funcionamento da máquina e precisa ser corrigido. Consulte o artigo [Bolhas de Ar no Tubo] para obter orientações sobre como resolver esse problema.
+Um problema comum é a formação de bolhas de ar no tubo laser durante o processo de enchimento de água. Isso pode ser prejudicial ao funcionamento da máquina e precisa ser corrigido. Consulte o artigo [Tenho Bolhas] para obter orientações sobre como resolver esse problema.
+
+[Tenho Bolhas]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/tenho-bolhas/
 
 ## Garantindo o Nível de Água
 
-Após a circulação da água, o nível no reservatório deve diminuir um pouco. Certifique-se de que o reservatório esteja sempre cheio, ajustando o nível conforme necessário.
+Após a circulação da água, o nível no reservatório deve diminuir um pouco, motivo este é porque a água vai completar todos o resto do sistema "tubo de laser e radeador". Certifique-se de que o reservatório esteja sempre cheio, ajustando o nível conforme necessário.
+
+Dica:
+  Se o nivel da agua não estiver bom o softwar vai indicar e vai prevenir a maquina de não funcionar, veja onde mode consultar no software o nivel na seguinte imagem.
+
+
+<figure markdown="span">
+
+  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  <figcaption></figcaption>
+
+</figure>
+
 
 Neste artigo, abordamos a importância do uso correto da água, como encher o reservatório corretamente e como lidar com bolhas de ar. No próximo artigo da série [Primeiros Passos], vamos aprender sobre as diferentes formas de conexão na Carbon.
+
+[Primeiros Passos]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-passos/instalar-carbon/

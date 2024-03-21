@@ -1,5 +1,6 @@
 # Como instalar a sua maquina "Primeiros passos"
 
+<!--
 <figure markdown="span">
   
   ![](../images/construcao-light.png#only-light){ width="610" }
@@ -9,6 +10,7 @@
   <figcaption></figcaption>
   
 </figure>
+-->
 
 A sua Carbon acabou de chegar e agora é hora de começar a instalação!
 
@@ -21,13 +23,14 @@ Neste artigo, vamos abordar o tema de forma mais abrangente, oferecendo algumas 
 ## Desembalando
 Este é o momento em que você vai desembalar a sua Carbon e descobrir todos os itens que a acompanham!
 
-Observação: Nossos produtos estão em constante aprimoramento, então pode ser que alguns detalhes estejam diferentes, mas não se preocupe, aqui no artigo deixaremos tudo bem claro.
+Observação: Nossos produtos estão em constante melhoramento, então pode ser que alguns detalhes estejam diferentes, mas não se preocupe, aqui no artigo deixaremos tudo bem claro.
 
 ### Dicas para o desembalamento
 
 É ideal desembalar a sua Carbon com a ajuda de outra pessoa, pois a máquina é pesada e requer cuidados.
 Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma tesoura afiada também serve!
-O que vem com a sua Carbon?
+
+## O que vem com a sua Carbon?
 
 <figure markdown="span">
 
@@ -66,7 +69,7 @@ O que vem com a sua Carbon?
 
 * Posicione a máquina em uma superfície firme e plana.
 * É importante escolher um local próximo a uma janela ou saída de ar.
-* Se você planeja usar sua Carbon conectada à rede Wi-Fi da sua casa, escolha um local próximo ao seu router para obter um bom sinal.
+* Se você planeia usar sua Carbon conectada à rede Wi-Fi da sua casa, escolha um local próximo ao seu router para obter um bom sinal.
 
 ## Cuidando da exaustão
 
