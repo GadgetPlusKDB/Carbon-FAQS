@@ -59,7 +59,7 @@ O que vem com a sua Carbon?
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/imgManual_14.png){ width="400" }
+  ![FrenteMaq](../images/ImgManual_14.png){ width="400" }
   <figcaption></figcaption>
 
 </figure>
@@ -72,7 +72,7 @@ O que vem com a sua Carbon?
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/imgManual_15.png){ width="400" }
+  ![FrenteMaq](../images/ImgManual_15.png){ width="400" }
   <figcaption></figcaption>
 
 </figure>
@@ -86,7 +86,7 @@ O que vem com a sua Carbon?
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/imgManual_16.png){ width="400" }
+  ![FrenteMaq](../images/ImgManual_16.png){ width="400" }
   <figcaption></figcaption>
 
 </figure>
@@ -101,7 +101,7 @@ O que vem com a sua Carbon?
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/imgManual_17.png){ width="400" }
+  ![FrenteMaq](../images/ImgManual_17.png){ width="400" }
   <figcaption></figcaption>
 
 </figure>
