@@ -14,9 +14,9 @@ A água desempenha um papel fundamental no funcionamento adequado da sua Carbon.
 
 ## Dúvidas Frequentes
 
-Muitas vezes surgem dúvidas relacionadas à água na Carbon. Para esclarecer melhor esse tema, elaboramos o artigo [Manutenção - Água na Carbon], onde você encontrará respostas para perguntas como:
+Muitas vezes surgem dúvidas relacionadas à água na Carbon. Para esclarecer melhor esse tema, elaboramos o artigo [Água na Carbon], onde você encontrará respostas para perguntas como:
 
-[Manutenção - Água na Carbon]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/
+[Água na Carbon]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/
 
 Por que é necessário colocar água na minha Carbon?
 Que tipo de água devo usar?
@@ -45,7 +45,7 @@ Este procedimento deve ser realizado com a máquina ligada.
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_19.png){ width="650" }
+  ![FrenteMaq](../images/ImgManual_19.png){ width="694" }
   <figcaption></figcaption>
 
 </figure>
@@ -67,14 +67,12 @@ Após a circulação da água, o nível no reservatório deve diminuir um pouco,
 Dica:
   Se o nivel da agua não estiver bom o softwar vai indicar e vai prevenir a maquina de não funcionar, veja onde mode consultar no software o nivel na seguinte imagem.
 
-
 <figure markdown="span">
 
   ![FrenteMaq](../images/image-placeholder.png){ width="450" }
   <figcaption></figcaption>
 
 </figure>
-
 
 Neste artigo, abordamos a importância do uso correto da água, como encher o reservatório corretamente e como lidar com bolhas de ar. No próximo artigo da série [Primeiros Passos], vamos aprender sobre as diferentes formas de conexão na Carbon.
 
