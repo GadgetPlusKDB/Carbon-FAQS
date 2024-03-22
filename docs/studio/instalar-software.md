@@ -19,7 +19,7 @@ Ou, se preferir, siga os passos abaixo:
 * Escolha o link do Carbon Studio compatível sua Carbon.
 * Será redirecionado para uma página no Google Drive. Clique em ==Transferir== > ==Transferir mesmo assim== para iniciar o download. ==Fig 1:==
 
-[downloads]: https://edgarmata.github.io/Carbon-FAQS/transferencias/
+[downloads]: https://egadgetpluskdb.github.io/Carbon-FAQS/transferencias/
 
 <figure markdown="span">
 
@@ -80,6 +80,6 @@ Ou, se preferir, siga os passos abaixo:
 
 Quer aprender mais sobre como utilizar o software? Continue acompanhando nossa série de artigos sobre o Carbon Studio [Aqui].
 
-[Aqui]: https://edgarmata.github.io/Carbon-FAQS/studio/altualiza%C3%A7%C3%A3o-software/
+[Aqui]: https://egadgetpluskdb.github.io/Carbon-FAQS/studio/altualiza%C3%A7%C3%A3o-software/
 
 Você aprendeu como instalar os software necessário para controlar a sua Carbon no Windows 10 ou em versões mais recentes. Agora, o próximo passo é conectar a sua Carbon ao computador.

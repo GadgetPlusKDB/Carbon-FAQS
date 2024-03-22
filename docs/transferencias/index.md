@@ -9,11 +9,24 @@
     
     Saiba mais detalhes sobre como instalar o software na nossa secção [Studio]
 
-    [Studio]: https://edgarmata.github.io/Carbon-FAQS/studio/instalar-software/
+    [Studio]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/instalar-software/
 
     [Donwload](https://drive.google.com/file/d/1ZpGXJ9PmYbZm80LpIJZZhfoUxNVPbZFS/view?usp=drive_link){ .md-button target="_blank"}   
 
 ---
+## Driveres
+
+!!! sucess ""
+
+    ### Driver USB
+    Clique no botão seguinte para fazer download do driver adequado á nossa controladora.
+
+    Saiba mais detalhes sobre a conecção USB [aqui].
+
+    [aqui] https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
+
+    [Donwload] (https://drive.google.com/file/d/10JnDWMeaWblnzpIX60-MD6HoB6qVqJ4M/view?usp=sharing){ .md-button target="_blank"}  
+
 
 ## Manuais
 
@@ -24,7 +37,7 @@
     
     Saiba que tambem pode ler o manual aqui neste site na secção [Manual]
 
-    [Manual]: https://edgarmata.github.io/Carbon-FAQS/manual/
+    [Manual]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/
 
     [Donwload](https://drive.google.com/file/d/13DUftgwJGqejUsqd7jw9DPkOKlijwGHv/view?usp=sharing){ .md-button target="_blank"}
 
@@ -37,6 +50,6 @@
     
     Saiba que tambem pode ler o manual aqui neste site na secção [Manual]
 
-    [Manual]: https://edgarmata.github.io/Carbon-FAQS/manual/
+    [Manual]: https://egadgetpluskdb.github.io/Carbon-FAQS/manual/
 
     [Brevemente](#){ .md-button }

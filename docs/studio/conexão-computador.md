@@ -14,6 +14,8 @@ Neste método, a conexão entre a máquina e o computador é estabelecida direta
 
 A versão mais recente do Carbon Studio já inclui automaticamente o Driver do Cabo USB. No entanto, se ao seguir o procedimento você notar que o Cabo USB não é reconhecido em nenhuma das portas do seu computador, faça o [download] do Driver CH340 e instale clicando em "Instalar".
 
+[download]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#driver
+
 [Imagem 2: Instalação do Driver USB]
 
 * Conecte o cabo USB entre o computador e a Gadget.
@@ -88,8 +90,8 @@ Teve algum problema na hora de se conectar? Que tal dar uma olhadinha nesses art
 * Troubleshooting - [Rede Wi-fi Carbon]
 * Troubleshooting - [Rede Wi-fi local de trabalho]
 
-[Cabo USB]: https://edgarmata.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
+[Cabo USB]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
 
-[Rede Wi-fi Carbon]: https://edgarmata.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-wi-fi-rede-carbon
+[Rede Wi-fi Carbon]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-wi-fi-rede-carbon
 
-[Rede Wi-fi local de trabalho]: https://edgarmata.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-wi-fi-rede-local-de-trabalho
+[Rede Wi-fi local de trabalho]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-wi-fi-rede-local-de-trabalho

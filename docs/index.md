@@ -22,7 +22,7 @@ hide:
 
     Nesta secção encontra tudo o que precisa sobre os manuais da Carbon assim como fazer donload dos mesmos.
 
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/manual/)
+    [:octicons-arrow-right-24: Saber Mais](https://gadgetpluskdb.github.io/Carbon-FAQS/manual/)
 
 -   :fontawesome-solid-screwdriver-wrench:{ .lg .middle } __Ajuda com manutenção__
 
@@ -30,7 +30,7 @@ hide:
 
     Precisa de informação sobre como fazer qualquer tipo de manutenção na sua Carbom, então aqui é o lugar.
 
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/)
+    [:octicons-arrow-right-24: Saber Mais](https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/)
 
 -   :fontawesome-brands-app-store:{ .lg .middle } __Ajuda com o Carbon Studio__
 
@@ -38,7 +38,7 @@ hide:
 
     Dos primeiros passos com o Carbon Studio, até á ajuda avançada, aqui vai encontrar varios artigos para a sua formação com o software.
 
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/studio/instalar-software/)
+    [:octicons-arrow-right-24: Saber Mais](https://gadgetpluskdb.github.io/Carbon-FAQS/studio/instalar-software/)
 
 -   :fontawesome-solid-triangle-exclamation:{ .lg .middle } __Resolução de problermas__
 
@@ -46,7 +46,7 @@ hide:
 
     Tem algum problema com a sua maquina? Encontre aqui algumas soluções simples que o podem ajudar bastante.
 
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/troubleshooting/corte-diferente/ajustar-correias/)
+    [:octicons-arrow-right-24: Saber Mais](https://gadgetpluskdb.github.io/Carbon-FAQS/troubleshooting/corte-diferente/ajustar-correias/)
 
 -   :fontawesome-solid-helmet-safety:{ .lg .middle } __Ajuda com Segurança__
 
@@ -54,7 +54,7 @@ hide:
 
     O seguro morreu de velho, sabia tudo sobre como trabalhar em segurança com a sua Carbom.
 
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/seguran%C3%A7a/instruc%C3%B5es-seguranca/)
+    [:octicons-arrow-right-24: Saber Mais](https://gadgetpluskdb.github.io/Carbon-FAQS/seguran%C3%A7a/instruc%C3%B5es-seguranca/)
 
 -   :fontawesome-solid-wand-magic-sparkles:{ .lg .middle } __Aprender com truques e dicas__
 
@@ -62,7 +62,7 @@ hide:
 
     Deseja aprender só mais um pouquinho? Então é aqui...
 
-    [:octicons-arrow-right-24: Saber Mais](https://edgarmata.github.io/Carbon-FAQS/truques-%26-dicas/vetorizar-imagem/)          
+    [:octicons-arrow-right-24: Saber Mais](https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/vetorizar-imagem/)          
 
 </div>
 
