@@ -10,7 +10,9 @@
   
 </figure>
 
-Hoje, vamos abordar um passo crucial para garantir o sucesso dos nossos cortes: o ajuste de foco.
+Hoje, vamos abordar um passo crucial para garantir o sucesso dos nossos cortes:
+
+O ajuste de foco.
 
 ### Mas afinal, por que é tão importante ajustar o foco?
 
@@ -45,20 +47,20 @@ O processo de ajuste de foco é simples:
 2. Ajuste a altura do bico em relação à superfície do material usando o gabarito de foco
 3. Aperte novamento o bico na nova posição.
 
-Dicas
-
-* Evite pressionar o material durante o ajuste do foco
-* Verifique se o material está nivelado
+!! tip "Dicas"
+    
+    * Evite pressionar o material durante o ajuste do foco
+    * Verifique se o material está nivelado
 
 ## Quando devo ajustar o foco?
 
-É crucial ajustar o foco sempre que mudar o tipo de material. Também é importante verificar se está ajustado se o corte não atingir a qualidade desejada (veja a figura 2).
+É crucial ajustar o foco sempre que mudar o tipo de material. Também é importante verificar se está ajustado caso o corte não atingir a qualidade desejada (veja a figura 2).
 
 É comum esquecer de ajustar o foco, mesmo para os mais experientes. Esteja atento!
 
-## Como saber se meu foco está desregulado?
+## Como saber quando meu foco não está regulado?
 
-A melhor forma de perceber se o foco está desregulado é observar a espessura da linha de corte. Quando o foco está desregulado, a linha de corte fica visivelmente mais grossa do que o normal, o que pode resultar em um corte inadequado ou com acabamento deficiente (veja a figura 2).
+A melhor forma de perceber quando o foco não está regulado é observar a espessura da linha de corte. Quando não está regulado, a linha de corte fica visivelmente mais grossa do que o normal, o que pode resultar em um corte inadequado ou com acabamento deficiente (veja a figura 2).
 
 <figure markdown="span">
 
@@ -70,6 +72,7 @@ A melhor forma de perceber se o foco está desregulado é observar a espessura d
 Figura 2 - Exemplos de foco mal regulado
 
 Neste artigo, aprendemos sobre a importância de ajustar o foco e como é fácil fazê-lo! Agora, basta ficar atento e não esquecer de realizar este procedimento sempre que trocar de material.
+
 Acompanhe nossa série de artigos de primeiros passos para aprender como posicionar o [material] na Carbon.
 
 [material]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-trabalhos/material/
