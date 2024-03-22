@@ -36,7 +36,7 @@ O processo de ajuste de foco é simples:
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ajuste-foco.png){ width="800" }
+  ![FrenteMaq](../images/ajuste-foco.png){ width="600" }
   <figcaption></figcaption>
 
 </figure>
@@ -62,7 +62,7 @@ A melhor forma de perceber se o foco está desregulado é observar a espessura d
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/difrenças-foco.png){ width="800" }
+  ![FrenteMaq](../images/difrenças-foco.png){ width="600" }
   <figcaption></figcaption>
 
 </figure>
