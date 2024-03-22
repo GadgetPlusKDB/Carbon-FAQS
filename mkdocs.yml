@@ -131,7 +131,6 @@ nav:
       - Remover Suportes: manual/primeiros-passos/remover-suportes.md
       - Colmeia: manual/primeiros-passos/colmeia.md
       - Eixo Rotativo: manual/primeiros-passos/eixo-rotativo.md
-      - Camera 4K: manual/primeiros-passos/camera-4k.md
     - Primeiros Trabalhos:
       - Materiais: manual/primeiros-trabalhos/material.md
       - Ajustar Foco: manual/primeiros-trabalhos/ajustar-foco.md
@@ -160,6 +159,7 @@ nav:
   - Studio:
     - Instalar Software: studio/instalar-software.md
     - Conexão: studio/conexão-computador.md
+    - Conexão Camera 4K: studio/camera-4k.md
     - Atualização Software: studio/altualização-software.md
     - Truques & Dicas: studio/truques-&-dicas.md
     - Primeiros Passos:
@@ -169,6 +169,7 @@ nav:
       - Comandos Movimento: studio/primeiros-passos/comando-movimento.md
       - Função Preview: studio/primeiros-passos/função-preview.md
       - Icons Simbólicos: studio/primeiros-passos/icons-simbólicos.md
+      - Como utilizar Camera 4K: studio/primeiros.passos/utilizar-camera.md
     - Tutorial Basico:
       - Principios Basicos: studio/tutorial-basico/principios-basicos.md
       - Formas: studio/tutorial-basico/formas.md

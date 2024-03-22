@@ -65,7 +65,7 @@ Um problema comum é a formação de bolhas de ar no tubo laser durante o proces
 Após a circulação da água, o nível no reservatório deve diminuir um pouco, motivo este é porque a água vai completar todos o resto do sistema "tubo de laser e radeador". Certifique-se de que o reservatório esteja sempre cheio, ajustando o nível conforme necessário.
 
 Dica:
-  Se o nivel da agua não estiver bom o softwar vai indicar e vai prevenir a maquina de não funcionar, veja onde mode consultar no software o nivel na seguinte imagem.
+  Se o nivel da agua não estiver bom o softwar vai avisar e vai prevenir a o funcionamento da máquina, veja onde pode consultar no software o nível na seguinte imagem.
 
 <figure markdown="span">
 

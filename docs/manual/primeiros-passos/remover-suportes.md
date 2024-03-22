@@ -10,10 +10,17 @@
   
 </figure>
 
-Ao receber sua Carbon, você provavelmente notou a presença de um suporte de proteção para o tubo. Esse suporte é localizado na parte traseira, no canto direito da unidade de movimento, como mostrado na imagem abaixo:
+Ao receber sua Carbon, você provavelmente notou a presença de um suporte de proteção para o tubo. Esse suporte é localizado na parte traseira, nas laterais da unidade de movimento, como mostrado na imagem abaixo:
 
-Imagem 1 - Trava de proteção
+<figure markdown="span">
 
-Essa suporte tem a única função de proteger o tubo durante o transporte e deve ser removida assim que você receber sua máquina. Você pode fazer isso utilizando a chave allen de 2,5mm que acompanha sua Carbon.
+  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  <figcaption></figcaption>
+
+</figure>
+
+Imagem 1 - Suporte de proteção
+
+Essa suporte tem a única função de proteger o tubo durante o transporte e deve ser removido assim que você receber sua máquina. Você pode fazer isso utilizando a chave allen de 2,5mm que acompanha sua Carbon.
 
 Pronto! Agora você já pode prosseguir com o processo de instalação!
