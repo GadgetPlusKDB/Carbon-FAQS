@@ -130,10 +130,10 @@ nav:
       - Encher Reservatório: manual/primeiros-passos/encher-reservatório.md
       - Remover Suportes: manual/primeiros-passos/remover-suportes.md
       - Colmeia: manual/primeiros-passos/colmeia.md
-      - Eixo Rotativo: manual/primeiros-passos/eixo-rotativo.md
+    # - Eixo Rotativo: manual/primeiros-passos/eixo-rotativo.md
     - Primeiros Trabalhos:
-      - Materiais: manual/primeiros-trabalhos/material.md
       - Ajustar Foco: manual/primeiros-trabalhos/ajustar-foco.md
+      - Materiais: manual/primeiros-trabalhos/material.md
       - Velocidade e Potencia: manual/primeiros-trabalhos/velocidade-potencia.md
       - Tesoura Impressora: manual/primeiros-trabalhos/tesoura-impressora.md
       - Primeiro Corte: manual/primeiros-trabalhos/primeiro-corte.md

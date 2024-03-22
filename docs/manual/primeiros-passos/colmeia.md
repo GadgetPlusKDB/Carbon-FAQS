@@ -56,7 +56,7 @@ Figura 2 - Colmeia com pés
 
 Figura 3 - Colmeia sem pés
 
-Ainda tem dúvidas? Entre em contato com o Suporte Due Laser. Estamos aqui para ajudar!
+Ainda tem dúvidas? Entre em contato com o nosso suporte. Estamos aqui para ajudar!
 
 
 

@@ -4,7 +4,7 @@
 
 !!! success ""
 
-    ### Download Versão 1.5.1
+    ### Carbon Studio Versão 1.5.1
     Clique botão seguinte para fazer download do software.
     
     Saiba mais detalhes sobre como instalar o software na nossa secção [Studio]
