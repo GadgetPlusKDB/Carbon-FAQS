@@ -105,6 +105,15 @@ Figura 4 - Preview > Frame
 
     Com a nova atualização do Carbon Studio, o recurso frame do painel de controle foi desativado! Portanto, a máquina não responderá mais ao comando de frame feito pela barra de controle.
 
+<figure markdown="span">
+
+  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  <figcaption></figcaption>
+
+</figure>
+
+Figuras 5 - Recurso Preview - Barra de controle    
+
 Para usar o frame, você deve ir em "preview > frame", conforme mencionado acima.
 
 * O recurso de frame facilita a utilização de retalhos de material, pois permite verificar se o desenho caberá no espaço desejado.
