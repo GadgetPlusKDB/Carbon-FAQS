@@ -18,7 +18,10 @@ Para entendermos a relevância desse procedimento, é essencial compreender que,
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/laser-cabeçote-light.png#only-light){ width="800" }
+  <figcaption></figcaption>
+
+  ![FrenteMaq](../images/laser-cabeçote-dark.png#only-dark){ width="800" }
   <figcaption></figcaption>
 
 </figure>
@@ -31,9 +34,16 @@ Manter a mesma distância entre o foco do laser e a superfície do material é f
 
 O processo de ajuste de foco é simples:
 
-* Desaperte o bico do laser
-* Ajuste a altura do bico em relação à superfície do material usando o gabarito de foco
-* Aperte novamento o bico na nova posição.
+<figure markdown="span">
+
+  ![FrenteMaq](../images/ajuste-foco.png){ width="800" }
+  <figcaption></figcaption>
+
+</figure>
+
+1. Desaperte o bico do laser
+2. Ajuste a altura do bico em relação à superfície do material usando o gabarito de foco
+3. Aperte novamento o bico na nova posição.
 
 Dicas
 
