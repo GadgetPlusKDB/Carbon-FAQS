@@ -10,12 +10,15 @@
   
 </figure>
 
-Aqui vamos explorar um passo essencial para garantir o sucesso dos nossos cortes: o posicionamento do desenho no material. Para isso, é crucial compreender o funcionamento do painel de controle no Carbon Studio. Que tal dar uma olhada a esse artigo da nossa série sobre o [Studio]? Já se sente confortável em operar a máquina? Então vamos para o próximo passo!
+Aqui vamos explorar um passo essencial para garantir o sucesso dos nossos cortes: o posicionamento do desenho no material. Para isso, é crucial compreender o funcionamento do painel de controle no Carbon Studio. Que tal dar uma olhada a esse artigo da nossa série sobre o [Studio]?
+
+Já se sente confortável em operar a máquina? Então vamos para o próximo passo!
 
 [Studio]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/primeiros-passos/comando-movimento/
 
 Ajustando o desenho na área de trabalho do Carbon Studio
 Independentemente se o desenho foi criado dentro do Carbon Studio ou importado de outro software, é necessário posicioná-lo na posição zero dentro do software.
+
 * Selecione os elementos que deseja cortar. A posição em relação aos eixos X e Y é indicada nas caixas destacadas na Figura 1.
 
 <figure markdown="span">
@@ -43,6 +46,7 @@ O Carbon Studio reconhece o canto superior esquerdo como ponto inicial.
 ## Definindo o ponto inicial de corte na Carbon
 
 Para que a máquina saiba de onde iniciar o corte, é necessário definir o ponto inicial.
+
 * Movimente o cabeçote do laser as setas no painel de controle.
 
 <figure markdown="span">
@@ -85,6 +89,7 @@ A máquina sempre considera como ponto inicial a última definição realizada. 
 ## Verificando o posicionamento do desenho no material
 
 Para garantir o melhor aproveitamento da área de trabalho, é importante conhecer o espaço que o desenho ocupará no material. Para isso, utilizamos o recurso "Frame".
+
 * Selecione os elementos do desenho que deseja verificar e clique em "preview>frame", conforme indicado na Figura 4.
 
 <figure markdown="span">
