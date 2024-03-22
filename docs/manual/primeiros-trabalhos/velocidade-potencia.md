@@ -29,7 +29,10 @@ A busca esse ponto de equilíbrio é essencial para obter resultados consistente
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/imgManual20.png#only-light){ width="220" }
+  <figcaption></figcaption>
+
+  ![FrenteMaq](../images/imgManual21.png#only-dark){ width="220" }
   <figcaption></figcaption>
 
 </figure>
@@ -45,7 +48,7 @@ Os parâmetros são ajustados de acordo com a camada selecionada no software, di
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/imgManual22.png){ width="431" }
   <figcaption></figcaption>
 
 </figure>
@@ -54,8 +57,16 @@ Figura 2 - Definição de parâmetros no Carbon Studio
 
 ## Encontrando os melhores parâmetros para o seu material
 
-Identificar os parâmetros ideais requer uma abordagem prática e experimental. Devido à variedade de materiais e suas características específicas, é importante realizar testes para determinar as configurações mais adequadas.
+### Identificar os parâmetros ideais requer uma abordagem prática e experimental.
 
-Para facilitar esse processo, desenvolvemos gabaritos de corte! Esses gabaritos permitem testar diversas combinações de parâmetros, ajudando a identificar a configuração ótima para cada tipo de material. Além disso, disponibilizamos alguns arquivos no Carbon Studio para simplificar esse processo de teste e ajuste.
+Devido à variedade de materiais e suas características específicas, é importante realizar [testes para determinar as configurações mais adequadas].
 
-Neste artigo, aprofundamos nosso entendimento sobre os parâmetros de velocidade e potência, exploramos como configurá-los no Carbon Studio e reconhecemos a importância dos testes práticos para determinar os ajustes ideais. Essas informações são fundamentais para garantir resultados consistentes e de alta qualidade no processo de corte a laser.
+[testes para determinar as configurações mais adequadas]: #
+
+### Para facilitar esse processo, desenvolvemos gabaritos de corte!
+
+Esses gabaritos permitem testar diversas combinações de parâmetros, ajudando a identificar a configuração ótima para cada tipo de material. Além disso, [disponibilizamos] alguns arquivos no Carbon Studio para simplificar esse processo de testes e ajustes.
+
+[disponibilizamos]: #
+
+Neste artigo aprofundamos nosso entendimento sobre os parâmetros de velocidade e potência, exploramos como configurá-los no Carbon Studio e reconhecemos a importância dos testes práticos para determinar os ajustes ideais. Essas informações são fundamentais para garantir resultados consistentes e de alta qualidade no processo de corte a laser.

@@ -10,7 +10,9 @@
   
 </figure>
 
-Aqui vamos explorar um passo essencial para garantir o sucesso dos nossos cortes: o posicionamento do desenho no material. Para isso, é crucial compreender o funcionamento do painel de controle no Carbon Studio. Que tal dar uma olhada a esse artigo da nossa série sobre o [Studio]?
+Aqui vamos explorar um passo essencial para garantir o sucesso dos nossos cortes:
+
+O posicionamento do desenho no material. Para isso, é crucial compreender o funcionamento do painel de controle no Carbon Studio. Que tal dar uma olhada a esse artigo da nossa série sobre o [Studio]?
 
 Já se sente confortável em operar a máquina? Então vamos para o próximo passo!
 
