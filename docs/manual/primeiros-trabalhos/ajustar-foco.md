@@ -62,12 +62,12 @@ A melhor forma de perceber se o foco está desregulado é observar a espessura d
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/difrenças-foco.png){ width="800" }
   <figcaption></figcaption>
 
 </figure>
 
-Figura 2 - Exemplos de foco desregulado
+Figura 2 - Exemplos de foco mal regulado
 
 Neste artigo, aprendemos sobre a importância de ajustar o foco e como é fácil fazê-lo! Agora, basta ficar atento e não esquecer de realizar este procedimento sempre que trocar de material.
 Acompanhe nossa série de artigos de primeiros passos para aprender como posicionar o [material] na Carbon.
