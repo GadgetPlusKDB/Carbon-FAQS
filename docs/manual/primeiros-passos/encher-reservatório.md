@@ -69,7 +69,7 @@ Dica:
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/imgManual23.png){ width="563" }
   <figcaption></figcaption>
 
 </figure>
