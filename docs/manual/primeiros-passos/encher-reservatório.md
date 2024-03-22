@@ -1,15 +1,5 @@
 # Encher o reservatório com água
 
-<figure markdown="span">
-  
-  ![](../images/construcao-light.png#only-light){ width="610" }
-  <figcaption></figcaption>
-
-  ![](../images/construcao-dark.png#only-dark){ width="610" }
-  <figcaption></figcaption>
-  
-</figure>
-
 A água desempenha um papel fundamental no funcionamento adequado da sua Carbon. Para garantir uma boa manutenção, é recomendado o uso de água desmineralizada, destilada ou deionizada. Neste artigo, vamos orientá-lo sobre como preparar sua Carbon para funcionamento, incluindo como encher o reservatório de água, além de abordar algumas dúvidas comuns sobre o tema.
 
 ## Dúvidas Frequentes

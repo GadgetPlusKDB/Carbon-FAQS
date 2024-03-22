@@ -1,17 +1,5 @@
 # Como instalar a sua maquina "Primeiros passos"
 
-<!--
-<figure markdown="span">
-  
-  ![](../images/construcao-light.png#only-light){ width="610" }
-  <figcaption></figcaption>
-
-  ![](../images/construcao-dark.png#only-dark){ width="610" }
-  <figcaption></figcaption>
-  
-</figure>
--->
-
 A sua Carbon acabou de chegar e agora é hora de começar a instalação!
 
 Para tornar esse processo mais fácil, a nossa equipa preparou um guia de instalação completo com todas as informações necessárias. Você pode fazer o download [aqui] ou encontrá-lo também na nossa página de suporte.

@@ -1,15 +1,5 @@
 # Inserir a colmeia
 
-<figure markdown="span">
-  
-  ![](../images/construcao-light.png#only-light){ width="610" }
-  <figcaption></figcaption>
-
-  ![](../images/construcao-dark.png#only-dark){ width="610" }
-  <figcaption></figcaption>
-  
-</figure>
-
 Neste guia, vamos explicar o processo de instalação da Colmeia. É bastante simples!
 
 ## Por que usar a Colmeia?
@@ -27,7 +17,7 @@ e você pode conferir mais detalhes no vídeo demonstrativo.
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/foto-interior-colmeia.png){ width="800" }
   <figcaption></figcaption>
 
 </figure>
@@ -40,7 +30,7 @@ Importante: Certifique-se de que não há restos de material ou sujeira sob a Co
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/foto-colmeia-pes.png){ width="800" }
   <figcaption></figcaption>
 
 </figure>
@@ -49,7 +39,7 @@ Figura 2 - Colmeia com pés
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/foto-colmeia.png){ width="800" }
   <figcaption></figcaption>
 
 </figure>
