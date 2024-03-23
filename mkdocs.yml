@@ -131,7 +131,8 @@ markdown_extensions:
       title: Tabela de Conteudo
 
 nav:
-  - Home: index.md
+  - Home: /pt/index.md
+  - Home: /es/index.md  
   - Manual:
     - manual/index.md    
     - Primeiros Passos:

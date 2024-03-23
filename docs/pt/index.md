@@ -12,7 +12,7 @@ hide:
 
 </figure>
 
-## Welcome to the Carbon knowledge center
+## Bem vindo ao centro de conhecimento Carbon
 
 <div class="grid cards" markdown>
 
