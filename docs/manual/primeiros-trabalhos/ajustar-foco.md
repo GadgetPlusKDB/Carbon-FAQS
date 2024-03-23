@@ -37,7 +37,7 @@ O processo de ajuste de foco é simples:
 2. Ajuste a altura do bico em relação à superfície do material usando o gabarito de foco
 3. Aperte novamento o bico na nova posição.
 
-!! tip "Dicas"
+!!! tip "Dicas"
     
     * Evite pressionar o material durante o ajuste do foco
     * Verifique se o material está nivelado
