@@ -48,7 +48,7 @@ O processo de ajuste de foco é simples:
 
 É comum esquecer de ajustar o foco, mesmo para os mais experientes. Esteja atento!
 
-## Como saber quando meu foco não está regulado?
+## Como saber quando o meu foco não está regulado?
 
 A melhor forma de perceber quando o foco não está regulado é observar a espessura da linha de corte. Quando não está regulado, a linha de corte fica visivelmente mais grossa do que o normal, o que pode resultar em um corte inadequado ou com acabamento deficiente (veja a figura 2).
 
