@@ -4,8 +4,8 @@ A Carbon oferece três maneiras de se conectar ao seu computador:
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_24.png){ width="480" }
-  <figcaption>[Imagem 1: Conexões USB e Wi-Fi]</figcaption>
+  ![](../images/ImgManual_24.png){ width="480" }
+  <figcaption>Imagem 1: Conexões USB e Wi-Fi</figcaption>
 
 </figure>
 
@@ -23,8 +23,8 @@ A versão mais recente do Carbon Studio já inclui automaticamente o Driver do C
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/USB-driver-setup.png){ width="430" }
-  <figcaption>[Imagem 2: Instalação do Driver USB]</figcaption>
+  ![](../images/USB-driver-setup.png){ width="430" }
+  <figcaption>Imagem 2: Instalação do Driver USB</figcaption>
 
 </figure>
 
@@ -32,8 +32,8 @@ A versão mais recente do Carbon Studio já inclui automaticamente o Driver do C
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/USBCable.png){ width="452" }
-  <figcaption>[Imagem 3: Cabo USB]</figcaption>
+  ![](../images/USBCable.png){ width="452" }
+  <figcaption>Imagem 3: Cabo USB</figcaption>
 
 </figure>
 
@@ -41,8 +41,8 @@ A versão mais recente do Carbon Studio já inclui automaticamente o Driver do C
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/verificar-usb.png){ width="835" }
-  <figcaption>[Imagem 4: Verificação de Reconhecimento]</figcaption>
+  ![](../images/verificar-usb.png){ width="835" }
+  <figcaption>Imagem 4: Verificação de Reconhecimento</figcaption>
 
 </figure>
 
@@ -50,8 +50,8 @@ A versão mais recente do Carbon Studio já inclui automaticamente o Driver do C
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/Coneccao-01.png){ width="309" }
-  <figcaption>[Imagem 5: Verificação de Conexão]</figcaption>
+  ![](../images/Coneccao-01.png){ width="309" }
+  <figcaption>Imagem 5: Verificação de Conexão</figcaption>
 
 </figure>
 
@@ -67,8 +67,8 @@ Desvantagem: Seu computador perde acesso à rede Wi-Fi do local de trabalho, poi
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/coneccao-03.png){ width="365" }
-  <figcaption>[Imagem 6: Rede Wi-Fi Gadget]</figcaption>
+  ![](../images/coneccao-03.png){ width="365" }
+  <figcaption>Imagem 6: Rede Wi-Fi Gadget</figcaption>
 
 </figure>
 
@@ -76,8 +76,8 @@ Desvantagem: Seu computador perde acesso à rede Wi-Fi do local de trabalho, poi
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/coneccao-05.png){ width="370" }
-  <figcaption>[Imagem 7: Senha da Rede Wi-Fi Gadget]</figcaption>
+  ![](../images/coneccao-05.png){ width="370" }
+  <figcaption>Imagem 7: Senha da Rede Wi-Fi Gadget</figcaption>
 
 </figure>
 
@@ -85,8 +85,8 @@ Desvantagem: Seu computador perde acesso à rede Wi-Fi do local de trabalho, poi
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/coneccao-04.png){ width="531" }
-  <figcaption>[Imagem 8: Verificação de Conexão]</figcaption>
+  ![](../images/coneccao-04.png){ width="531" }
+  <figcaption>Imagem 8: Verificação de Conexão</figcaption>
 
 </figure>
 
@@ -107,8 +107,8 @@ Dica: Procure trabalhar o mais proximo do seu router de forma a garantir um sina
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/coneccao-06.png){ width="269" }
-  <figcaption>[Imagem 9: Configuração Wi-Fi]</figcaption>
+  ![](../images/coneccao-06.png){ width="269" }
+  <figcaption>Imagem 9: Configuração Wi-Fi</figcaption>
 
 </figure>
 
@@ -116,8 +116,8 @@ Dica: Procure trabalhar o mais proximo do seu router de forma a garantir um sina
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/coneccao-07.png){ width="657" }
-  <figcaption>[Imagem 10: Lista de redes]</figcaption>
+  ![](../images/coneccao-07.png){ width="657" }
+  <figcaption>Imagem 10: Lista de redes</figcaption>
 
 </figure>
 
@@ -127,8 +127,8 @@ Dica: Procure trabalhar o mais proximo do seu router de forma a garantir um sina
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/coneccao-08.png){ width="657" }
-  <figcaption>[Imagem 11: Conectar Wifi Local]</figcaption>
+  ![](../images/coneccao-08.png){ width="657" }
+  <figcaption>Imagem 11: Conectar Wifi Local</figcaption>
 
 </figure>
 
@@ -138,8 +138,8 @@ Dica: Procure trabalhar o mais proximo do seu router de forma a garantir um sina
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/coneccao-09.png){ width="270" }
-  <figcaption>[Imagem 12: Verificação de Conexão]</figcaption>
+  ![](../images/coneccao-09.png){ width="270" }
+  <figcaption>Imagem 12: Verificação de Conexão</figcaption>
 
 </figure>
 

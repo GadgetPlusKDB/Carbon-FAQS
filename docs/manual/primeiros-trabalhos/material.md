@@ -15,23 +15,19 @@ Independentemente se o desenho foi criado dentro do Carbon Studio ou importado d
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/posicionamento.png){ width="628" }
-  <figcaption></figcaption>
+  ![](../images/posicionamento.png){ width="628" }
+  <figcaption>Figura 1 - Desenhos em local aleatório</figcaption>
 
 </figure>
-
-Figura 1 - Desenhos em local aleatório da área de trabalho
 
 * Ajuste a posição dos desenhos para X=0 e Y=0. Isso moverá os elementos selecionados para a posição zero dentro do software.
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/posicionamento_0x0.png){ width="486" }
-  <figcaption></figcaption>
+  ![](../images/posicionamento_0x0.png){ width="486" }
+  <figcaption>Figura 2 - Desenhos na posição zero</figcaption>
 
 </figure>
-
-Figura 2 - Desenhos na posição zero
 
 O Carbon Studio reconhece o canto superior esquerdo como ponto inicial.
 
@@ -43,34 +39,28 @@ Para que a máquina saiba de onde iniciar o corte, é necessário definir o pont
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ferramenta-mov-01.png){ width="443" }
-  <figcaption></figcaption>
+  ![](../images/ferramenta-mov-01.png){ width="443" }
+  <figcaption>Figura 3 - Movimentação cabeçote laser setas</figcaption>
 
 </figure>
-
-Figura 1 - Movimentação cabeçote laser setas
 
 * Escolha o local onde deseja iniciar o corte. Para otimizar o uso do material, posicione-o no canto superior esquerdo.
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/foto-interior-01.png){ width="800" }
-  <figcaption></figcaption>
+  ![](../images/foto-interior-01.png){ width="800" }
+  <figcaption>Figura 4 - Posicionamento do cabeçote no material </figcaption>
 
 </figure>
-
-Figura 2 - Posicionamento do cabeçote no material 
 
 * Considerando a posição do bico do laser, clique em "definir início" no painel de controle.
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ferramenta-mov-02.png){ width="265" }
-  <figcaption></figcaption>
+  ![](../images/ferramenta-mov-02.png){ width="265" }
+  <figcaption>Figura 5 - Definir início</figcaption>
 
 </figure>
-
-Figura 3 - Definir início
 
 ## Criando referências
 
@@ -86,23 +76,19 @@ Para garantir o melhor aproveitamento da área de trabalho, é importante conhec
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/preview-frame.png){ width="583" }
-  <figcaption></figcaption>
+  ![](../images/preview-frame.png){ width="583" }
+  <figcaption>Figura 6 - Preview > Frame</figcaption>
 
 </figure>
-
-Figura 4 - Preview > Frame
 
 * O recurso de frame facilita a utilização de retalhos de material, pois permite verificar se o desenho caberá no espaço desejado.
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/foto-interior-02.png){ width="800" }
-  <figcaption></figcaption>
+  ![](../images/foto-interior-02.png){ width="800" }
+  <figcaption>Figura 7 - Aproveitamento de retalhos</figcaption>
 
 </figure>
-
-Figura 6 - Aproveitamento de retalhos utilizando frame
 
 ## Tamanho do desenho vs. área de trabalho da Carbon.
 

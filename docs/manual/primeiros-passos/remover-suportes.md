@@ -14,12 +14,12 @@ Ao receber sua Carbon, você provavelmente notou a presença de um suporte de pr
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
-  <figcaption></figcaption>
+  ![](../images/image-placeholder.png){ width="450" }
+  <figcaption>Imagem 1 - Suporte de proteção</figcaption>
 
 </figure>
 
-Imagem 1 - Suporte de proteção
+
 
 Essa suporte tem a única função de proteger o tubo durante o transporte e deve ser removido assim que você receber sua máquina. Você pode fazer isso utilizando a chave allen de 2,5mm que acompanha sua Carbon.
 

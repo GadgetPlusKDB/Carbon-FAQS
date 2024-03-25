@@ -21,7 +21,7 @@ Você pode conferir o vídeo abaixo sobre como encher o reservatório da máquin
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_18.png){ width="400" }
+  ![](../images/ImgManual_18.png){ width="400" }
   <figcaption></figcaption>
 
 </figure>
@@ -35,7 +35,7 @@ Este procedimento deve ser realizado com a máquina ligada.
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_19.png){ width="694" }
+  ![](../images/ImgManual_19.png){ width="694" }
   <figcaption></figcaption>
 
 </figure>
@@ -59,7 +59,7 @@ Dica:
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual23.png){ width="563" }
+  ![](../images/ImgManual23.png){ width="563" }
   <figcaption></figcaption>
 
 </figure>

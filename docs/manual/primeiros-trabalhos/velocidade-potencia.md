@@ -19,15 +19,13 @@ A busca esse ponto de equilíbrio é essencial para obter resultados consistente
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_20.png#only-light){ width="220" }
-  <figcaption></figcaption>
+  ![](../images/ImgManual_20.png#only-light){ width="220" }
+  <figcaption>Figura 1 - Relação entre velocidade e potência</figcaption>
 
-  ![FrenteMaq](../images/ImgManual_21.png#only-dark){ width="220" }
-  <figcaption></figcaption>
+  ![](../images/ImgManual_21.png#only-dark){ width="220" }
+  <figcaption>Figura 1 - Relação entre velocidade e potência</figcaption>
 
 </figure>
-
-Figura 1 - Relação entre velocidade e potência
 
 * Quanto maior a velocidade e menor a potência, menor será a profundidade do corte ou gravação.
 * Quanto menor velocidade e uma maior potência resultarão em uma ação mais profunda.
@@ -39,11 +37,9 @@ Os parâmetros são ajustados de acordo com a camada selecionada no software, di
 <figure markdown="span">
 
   ![FrenteMaq](../images/ImgManual_22.png){ width="431" }
-  <figcaption></figcaption>
+  <figcaption>Figura 2 - Definição de parâmetros</figcaption>
 
 </figure>
-
-Figura 2 - Definição de parâmetros no Carbon Studio
 
 ## Encontrando os melhores parâmetros para o seu material
 

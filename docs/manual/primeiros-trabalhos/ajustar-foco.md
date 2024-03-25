@@ -10,15 +10,13 @@ Para entendermos a relevância desse procedimento, é essencial compreender que,
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/laser-cabeçote-light.png#only-light){ width="800" }
-  <figcaption></figcaption>
+  ![](../images/laser-cabeçote-light.png#only-light){ width="800" }
+  <figcaption>Figura 1 - Foco ideal</figcaption>
 
-  ![FrenteMaq](../images/laser-cabeçote-dark.png#only-dark){ width="800" }
-  <figcaption></figcaption>
+  ![](../images/laser-cabeçote-dark.png#only-dark){ width="800" }
+  <figcaption>Figura 1 - Foco ideal</figcaption>
 
 </figure>
-
-Figura 1 - Foco ideal
 
 Manter a mesma distância entre o foco do laser e a superfície do material é fundamental. Para garantir essa precisão, utilizamos o nosso gabarito de foco!
 
@@ -28,8 +26,8 @@ O processo de ajuste de foco é simples:
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ajuste-foco.png){ width="600" }
-  <figcaption></figcaption>
+  ![](../images/ajuste-foco.png){ width="600" }
+  <figcaption>Figura 2 - Ajustar Foco</figcaption>
 
 </figure>
 
@@ -54,12 +52,10 @@ A melhor forma de perceber quando o foco não está regulado é observar a espes
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/difrenças-foco.png){ width="600" }
-  <figcaption></figcaption>
+  ![](../images/difrenças-foco.png){ width="600" }
+  <figcaption>Figura 3 - Exemplos de foco mal regulado</figcaption>
 
 </figure>
-
-Figura 2 - Exemplos de foco mal regulado
 
 Neste artigo, aprendemos sobre a importância de ajustar o foco e como é fácil fazê-lo! Agora, basta ficar atento e não esquecer de realizar este procedimento sempre que trocar de material.
 

@@ -22,14 +22,14 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_04.png){ width="750" }
+  ![](../images/ImgManual_04.png){ width="750" }
   <figcaption></figcaption>
   
-  ![FrenteMaq](../images/ImgManual_05.png){ width="750" }
+  ![](../images/ImgManual_05.png){ width="750" }
   <figcaption></figcaption>
 
-  ![FrenteMaq](../images/ImgManual_06.png){ width="750" }
-  <figcaption>[Figura 1 - Itens que acompanham a Carbon]</figcaption>
+  ![](../images/ImgManual_06.png){ width="750" }
+  <figcaption>Figura 1 - Itens que acompanham a Carbon</figcaption>
 
 </figure>
 
@@ -48,7 +48,7 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_14.png){ width="400" }
+  ![](../images/ImgManual_14.png){ width="400" }
   <figcaption></figcaption>
 
 </figure>
@@ -61,7 +61,7 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_15.png){ width="400" }
+  ![](../images/ImgManual_15.png){ width="400" }
   <figcaption></figcaption>
 
 </figure>
@@ -75,7 +75,7 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_16.png){ width="400" }
+  ![](../images/ImgManual_16.png){ width="400" }
   <figcaption></figcaption>
 
 </figure>
@@ -90,7 +90,7 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_17.png){ width="400" }
+  ![](../images/ImgManual_17.png){ width="400" }
   <figcaption></figcaption>
 
 </figure>
