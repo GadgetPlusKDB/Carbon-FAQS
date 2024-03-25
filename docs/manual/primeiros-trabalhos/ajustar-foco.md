@@ -18,7 +18,7 @@ Para entendermos a relevância desse procedimento, é essencial compreender que,
 
 </figure>
 
-<p style="text-align: center;">_Figura 1 - Foco ideal_</p>
+<p style="text-align: center;"><em>Figura 1 - Foco ideal</em></p>
 
 Manter a mesma distância entre o foco do laser e a superfície do material é fundamental. Para garantir essa precisão, utilizamos o nosso gabarito de foco!
 

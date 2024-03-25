@@ -31,7 +31,7 @@ No caso da tua Carbon, o aterramento não é apenas uma questão de segurança, 
 <figure markdown="span">
 
   ![](../images/tomada_terra.webp){ width="500" }
-  <figcaption>Figura 3: Exemplo de tomada com três fios conectados</figcaption>
+  <figcaption>Figura 3: Exemplo de tomada com três aterramento</figcaption>
   
 </figure>
 

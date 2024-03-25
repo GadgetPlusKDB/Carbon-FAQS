@@ -59,7 +59,7 @@ Dica:
 
 <figure markdown="span">
 
-  ![](../images/ImgManual23.png){ width="563" }
+  ![](../images/ImgManual_23.png){ width="563" }
   <figcaption></figcaption>
 
 </figure>

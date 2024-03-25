@@ -12,10 +12,11 @@ Se perceber qualquer irregularidade, desligue imediatamente a máquina.
 
 Para a sua segurança, a Gadget Carbon interrompe automaticamente o trabalho quando a tampa é aberta e retoma do ponto onde parou quando a tampa é fechada. No entanto, se levantar a tampa e o trabalho continuar, evite colocar as mãos dentro da máquina.
 O feixe do laser é invisível e reflete nos espelhos laterais da máquina, podendo causar queimaduras na pele.
-
+<!--
 Confira o vídeo abaixo sobre as instruções de segurança:
 
 Adicionar Vídeo Aqui
+-->
 
 ## Esteja atento à exaustão
 

@@ -20,12 +20,15 @@ A busca esse ponto de equilíbrio é essencial para obter resultados consistente
 <figure markdown="span">
 
   ![](../images/ImgManual_20.png#only-light){ width="220" }
-  <figcaption>Figura 1 - Relação entre velocidade e potência</figcaption>
+  <figcaption></figcaption>
 
   ![](../images/ImgManual_21.png#only-dark){ width="220" }
-  <figcaption>Figura 1 - Relação entre velocidade e potência</figcaption>
+  <figcaption></figcaption>
 
 </figure>
+
+<p style="text-align: center;"><em>Figura 1 - Relação entre velocidade e potência</em></p>
+
 
 * Quanto maior a velocidade e menor a potência, menor será a profundidade do corte ou gravação.
 * Quanto menor velocidade e uma maior potência resultarão em uma ação mais profunda.
