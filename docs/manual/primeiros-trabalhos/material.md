@@ -25,7 +25,7 @@ Independentemente se o desenho foi criado dentro do Carbon Studio ou importado d
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/posicionamento.png){ width="628" }
   <figcaption></figcaption>
 
 </figure>
@@ -36,12 +36,12 @@ Figura 1 - Desenhos em local aleatório da área de trabalho
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/posicionamento_0x0.png){ width="486" }
   <figcaption></figcaption>
 
 </figure>
 
-Figura 2 - Desenhos na posição zero DS
+Figura 2 - Desenhos na posição zero
 
 O Carbon Studio reconhece o canto superior esquerdo como ponto inicial.
 
@@ -53,7 +53,7 @@ Para que a máquina saiba de onde iniciar o corte, é necessário definir o pont
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/ferramenta-mov-01.png){ width="443" }
   <figcaption></figcaption>
 
 </figure>
@@ -64,7 +64,7 @@ Figura 1 - Movimentação cabeçote laser setas
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/foto-interior-01.png){ width="800" }
   <figcaption></figcaption>
 
 </figure>
@@ -75,7 +75,7 @@ Figura 2 - Posicionamento do cabeçote no material
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/ferramenta-mov-02.png){ width="265" }
   <figcaption></figcaption>
 
 </figure>
@@ -96,33 +96,18 @@ Para garantir o melhor aproveitamento da área de trabalho, é importante conhec
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/preview-frame.png){ width="583" }
   <figcaption></figcaption>
 
 </figure>
 
 Figura 4 - Preview > Frame
 
-!!! note "Obeservação"
-
-    Com a nova atualização do Carbon Studio, o recurso frame do painel de controle foi desativado! Portanto, a máquina não responderá mais ao comando de frame feito pela barra de controle.
-
-<figure markdown="span">
-
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
-  <figcaption></figcaption>
-
-</figure>
-
-Figuras 5 - Recurso Preview - Barra de controle    
-
-Para usar o frame, você deve ir em "preview > frame", conforme mencionado acima.
-
 * O recurso de frame facilita a utilização de retalhos de material, pois permite verificar se o desenho caberá no espaço desejado.
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/image-placeholder.png){ width="450" }
+  ![FrenteMaq](../images/foto-interior-02.png){ width="800" }
   <figcaption></figcaption>
 
 </figure>

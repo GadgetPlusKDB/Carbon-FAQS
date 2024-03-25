@@ -95,16 +95,16 @@ extra:
           note: >- 
             Obrigado pelo feedback! Ajuda-nos a melhorar esta pagina
             usando o nosso <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_kuzfD_Tbez4b-jqxr0dPAsu4QGP72imTuG0AKUAi-gQKLg/viewform?usp=pp_url&entry.756152555={url}" target="_blank" rel="noopener">formulario de feedback</a>.     
-  alternate:
-    - name: Português
-    - link: /pt/
-    - lang: pt
-    - name: Espanhol
-    - link: /es/
-    - lang: es
-    - name: Françês
-    - link: /fr/
-    - name
+#  alternate:
+#    - name: Português
+#    - link: /pt/
+#    - lang: pt
+#    - name: Espanhol
+#    - link: /es/
+#    - lang: es
+#    - name: Françês
+#    - link: /fr/
+#    - name
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -131,8 +131,7 @@ markdown_extensions:
       title: Tabela de Conteudo
 
 nav:
-  - Home: /pt/index.md
-  - Home: /es/index.md  
+  - Home: index.md
   - Manual:
     - manual/index.md    
     - Primeiros Passos:
