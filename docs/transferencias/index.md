@@ -51,26 +51,26 @@
 
     [Brevemente](#){ .md-button }
 
-## Arquivos para testes de parametros
+## Arquivos para testes de Corte
 
 !!! success ""
 
-    ### Testes de parametos para gravação
+    ### Testes de corte para gravação
     Os seguintes link's incluem o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
-    [Download](https://drive.google.com/file/d/1DttqAb0eLs3RitQDNOx-ezKgE9qW6C8I/view?usp=sharing){ .md-button target="_blank"}
+    [Download](https://drive.google.com/file/d/1eGgVS_NUkq7AX8KgaVLQke2w85DtGrxk/view?usp=sharing){ .md-button target="_blank"}
 
-    ### Testes de parametos para corte Genérico
+    ### Testes para corte Genérico
     Os seguintes link's incluem  o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
-    [Download](https://drive.google.com/file/d/1XSaqINPmeYDLs6Y6wy6JHv280tIVoeeu/view?usp=sharing){ .md-button target="_blank"}
+    [Download](https://drive.google.com/file/d/1TqYL2vwF50MRdcPyGatzLiguYWQMnyKe/view?usp=sharing){ .md-button target="_blank"}
 
-    ### Testes de parametos para corte de material leve
+    ### Testes para corte de material leve
     Os seguintes link's incluem  o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
-    [Download](https://drive.google.com/file/d/1OxQvLXFU3dpJPJKEiPssb8auKRQOANPG/view?usp=sharing){ .md-button target="_blank"}
+    [Download](https://drive.google.com/file/d/1MHsutLMgGS1hPpmqIzFYeyYf0WazbsKG/view?usp=sharing){ .md-button target="_blank"}
 
-    ### Testes de parametos para corte de material rigido
+    ### Testes para corte de material rigido
     Os seguintes link's incluem  o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
-    [Download](https://drive.google.com/file/d/1OTFyfWTqXwXtuOiasBFWIplqizIitZtG/view?usp=sharing){ .md-button target="_blank"} 
+    [Download](https://drive.google.com/file/d/1YQ8g6jjjvwMGDgkdkSCr4OcjbvWS8gBA/view?usp=sharing){ .md-button target="_blank"} 

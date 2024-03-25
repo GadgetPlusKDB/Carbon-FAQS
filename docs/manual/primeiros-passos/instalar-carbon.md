@@ -1,4 +1,4 @@
-# Como instalar a sua maquina "Primeiros passos"
+# Como instalar a sua maquina
 
 A sua Carbon acabou de chegar e agora é hora de começar a instalação!
 
