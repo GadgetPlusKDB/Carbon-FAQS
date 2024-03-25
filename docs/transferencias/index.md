@@ -42,10 +42,6 @@
 
     [Donwload](https://drive.google.com/file/d/13DUftgwJGqejUsqd7jw9DPkOKlijwGHv/view?usp=sharing){ .md-button target="_blank"}
 
----
-
-!!! success ""
-
     ### Manual de manutenção Carbon
     Clique botão seguinte para fazer download do manual de manutenção Carbon em PDF.
     
@@ -64,27 +60,15 @@
 
     [Donwload](https://drive.google.com/file/d/1DttqAb0eLs3RitQDNOx-ezKgE9qW6C8I/view?usp=sharing){ .md-button target="_blank"}
 
----
-
-!!! success ""
-
     ### Testes de parametos para corte Genérico
     Os seguintes link's incluem  o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
     [Donwload](https://drive.google.com/file/d/1XSaqINPmeYDLs6Y6wy6JHv280tIVoeeu/view?usp=sharing){ .md-button target="_blank"}
 
----
-
-!!! success ""
-
     ### Testes de parametos para corte de material leve
     Os seguintes link's incluem  o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
     [Donwload](https://drive.google.com/file/d/1OxQvLXFU3dpJPJKEiPssb8auKRQOANPG/view?usp=sharing){ .md-button target="_blank"}
-
----
-
-!!! success ""
 
     ### Testes de parametos para corte de material rigido
     Os seguintes link's incluem  o projeto em SVG e o projeto em G-CODE para a sua Carbon.
