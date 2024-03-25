@@ -15,7 +15,7 @@
 
 ---
 
-## Driveres
+## Drivers
 
 !!! success ""
 
@@ -87,6 +87,8 @@
     [Projeto](https://drive.google.com/file/d/1z6PlYjiTuLXBJqLrnuXp9qL-hYLv3Kj_/view?usp=sharing){ .md-button target="_blank"}
 
     [G-CODE](){ .md-button target="_blank"}
+
+---
 
 !!! success ""
 

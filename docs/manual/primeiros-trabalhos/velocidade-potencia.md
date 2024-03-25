@@ -57,6 +57,6 @@ Devido à variedade de materiais e suas características específicas, é import
 
 Esses gabaritos permitem testar diversas combinações de parâmetros, ajudando a identificar a configuração ótima para cada tipo de material. Além disso, [disponibilizamos] alguns arquivos no Carbon Studio para simplificar esse processo de testes e ajustes.
 
-[disponibilizamos]: #
+[disponibilizamos]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#arquivos-para-testes-de-parametros
 
 Neste artigo aprofundamos nosso entendimento sobre os parâmetros de velocidade e potência, exploramos como configurá-los no Carbon Studio e reconhecemos a importância dos testes práticos para determinar os ajustes ideais. Essas informações são fundamentais para garantir resultados consistentes e de alta qualidade no processo de corte a laser.
