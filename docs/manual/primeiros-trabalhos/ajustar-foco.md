@@ -1,4 +1,4 @@
-# Como ajustrar o foro do laser
+# Como ajustrar o foco do laser
 
 Hoje, vamos abordar um passo crucial para garantir o sucesso dos nossos cortes:
 
