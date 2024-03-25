@@ -14,9 +14,10 @@
     [Donwload](https://drive.google.com/file/d/1ZpGXJ9PmYbZm80LpIJZZhfoUxNVPbZFS/view?usp=drive_link){ .md-button target="_blank"}   
 
 ---
+
 ## Driveres
 
-!!! sucess ""
+!!! success ""
 
     ### Driver USB
     Clique no botão seguinte para fazer download do driver adequado á nossa controladora.
@@ -53,3 +54,41 @@
     [Manual]: https://egadgetpluskdb.github.io/Carbon-FAQS/manual/
 
     [Brevemente](#){ .md-button }
+
+## Arquivos para testes de parametros
+
+!!! sucess ""
+
+    ### Testes de parametos para gravação
+    link seguintes inclui o projeto em SVG e o projeto em G-CODE para a sua Carbon.
+
+    [Projeto] (https://drive.google.com/file/d/1sXBBHdIT-MMOdsV7ryLSCILYHcarwev2/view?usp=sharing){ .md-button target="_blank"}
+    [G-CODE] (){ .md-button target="_blank"}
+
+---
+
+!!! sucess ""
+
+    ### Testes de parametos para corte Genérico
+    link seguintes inclui o projeto em SVG e o projeto em G-CODE para a sua Carbon.
+
+    [Projeto] (https://drive.google.com/file/d/1CE58HRJOO_tI00HNdA3JmXp3heHcVoD9/view?usp=sharing){ .md-button target="_blank"}
+    [G-CODE] (){ .md-button target="_blank"}
+
+---
+
+!!! sucess ""
+
+    ### Testes de parametos para corte de material leve
+    link seguintes inclui o projeto em SVG e o projeto em G-CODE para a sua Carbon.
+
+    [Projeto] (https://drive.google.com/file/d/1z6PlYjiTuLXBJqLrnuXp9qL-hYLv3Kj_/view?usp=sharing){ .md-button target="_blank"}
+    [G-CODE] (){ .md-button target="_blank"}
+
+!!! sucess ""
+
+    ### Testes de parametos para corte de material rigido
+    link seguintes inclui o projeto em SVG e o projeto em G-CODE para a sua Carbon.
+
+    [Projeto] (https://drive.google.com/file/d/1k_l5uuwtH0bzU3JK1k7zACYLTk-kWAE9/view?usp=sharing){ .md-button target="_blank"}
+    [G-CODE] (){ .md-button target="_blank"}    

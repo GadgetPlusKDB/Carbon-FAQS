@@ -1,15 +1,5 @@
 # Parametros de velocidade e potência
 
-<figure markdown="span">
-  
-  ![](../images/construcao-light.png#only-light){ width="610" }
-  <figcaption></figcaption>
-
-  ![](../images/construcao-dark.png#only-dark){ width="610" }
-  <figcaption></figcaption>
-  
-</figure>
-
 O processo de corte a laser requere a definição precisa de dois parâmetros fundamentais: velocidade e potência. Vamos explorar mais detalhadamente o significado desses fatores e aprender como ajustá-los para otimizar os resultados.
 
 ## Entendendo os parâmetros
@@ -61,7 +51,7 @@ Figura 2 - Definição de parâmetros no Carbon Studio
 
 Devido à variedade de materiais e suas características específicas, é importante realizar [testes para determinar as configurações mais adequadas].
 
-[testes para determinar as configurações mais adequadas]: #
+[testes para determinar as configurações mais adequadas]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
 
 ### Para facilitar esse processo, desenvolvemos gabaritos de corte!
 
