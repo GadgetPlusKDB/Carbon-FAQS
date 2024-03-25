@@ -7,7 +7,7 @@ hide:
 
 <figure markdown="span">
 
-  ![Carbon](images/GadgetCARBON.PNG){ width="1000" }
+  ![](images/GadgetCARBON.PNG){ width="1000" }
   <figcaption></figcaption>
 
 </figure>

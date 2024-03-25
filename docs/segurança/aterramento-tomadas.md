@@ -5,8 +5,8 @@ De forma simples, o sistema de aterramento implica uma viga cravada no solo, con
 
 <figure markdown="span">
 
-  ![Tomada Europeia](../images/barra_aterramento.png){ width="500" }
-  <figcaption>Imagem 1: Aterramento da tomada</figcaption>
+  ![](../images/barra_aterramento.png){ width="500" }
+  <figcaption>Figura 1: Aterramento da tomada</figcaption>
 
 </figure>
 
@@ -30,8 +30,8 @@ No caso da tua Carbon, o aterramento não é apenas uma questão de segurança, 
 
 <figure markdown="span">
 
-  ![Tomada Europeia](../images/tomada_terra.webp){ width="500" }
-  <figcaption>Imagem 3: Exemplo de tomada com três fios conectados</figcaption>
+  ![](../images/tomada_terra.webp){ width="500" }
+  <figcaption>Figura 3: Exemplo de tomada com três fios conectados</figcaption>
   
 </figure>
 

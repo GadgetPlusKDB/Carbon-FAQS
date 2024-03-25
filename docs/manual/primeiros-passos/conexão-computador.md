@@ -5,7 +5,7 @@ A Carbon oferece três maneiras de se conectar ao seu computador:
 <figure markdown="span">
 
   ![](../images/ImgManual_24.png){ width="480" }
-  <figcaption>Imagem 1: Conexões USB e Wi-Fi</figcaption>
+  <figcaption>Figura 1: Conexões USB e Wi-Fi</figcaption>
 
 </figure>
 
@@ -24,7 +24,7 @@ A versão mais recente do Carbon Studio já inclui automaticamente o Driver do C
 <figure markdown="span">
 
   ![](../images/USB-driver-setup.png){ width="430" }
-  <figcaption>Imagem 2: Instalação do Driver USB</figcaption>
+  <figcaption>Figura 2: Instalação do Driver USB</figcaption>
 
 </figure>
 
@@ -33,7 +33,7 @@ A versão mais recente do Carbon Studio já inclui automaticamente o Driver do C
 <figure markdown="span">
 
   ![](../images/USBCable.png){ width="452" }
-  <figcaption>Imagem 3: Cabo USB</figcaption>
+  <figcaption>Figura 3: Cabo USB</figcaption>
 
 </figure>
 
@@ -42,7 +42,7 @@ A versão mais recente do Carbon Studio já inclui automaticamente o Driver do C
 <figure markdown="span">
 
   ![](../images/verificar-usb.png){ width="835" }
-  <figcaption>Imagem 4: Verificação de Reconhecimento</figcaption>
+  <figcaption>Figura 4: Verificação de Reconhecimento</figcaption>
 
 </figure>
 
@@ -51,7 +51,7 @@ A versão mais recente do Carbon Studio já inclui automaticamente o Driver do C
 <figure markdown="span">
 
   ![](../images/Coneccao-01.png){ width="309" }
-  <figcaption>Imagem 5: Verificação de Conexão</figcaption>
+  <figcaption>Figura 5: Verificação de Conexão</figcaption>
 
 </figure>
 
@@ -68,7 +68,7 @@ Desvantagem: Seu computador perde acesso à rede Wi-Fi do local de trabalho, poi
 <figure markdown="span">
 
   ![](../images/coneccao-03.png){ width="365" }
-  <figcaption>Imagem 6: Rede Wi-Fi Gadget</figcaption>
+  <figcaption>Figura 6: Rede Wi-Fi Gadget</figcaption>
 
 </figure>
 
@@ -77,7 +77,7 @@ Desvantagem: Seu computador perde acesso à rede Wi-Fi do local de trabalho, poi
 <figure markdown="span">
 
   ![](../images/coneccao-05.png){ width="370" }
-  <figcaption>Imagem 7: Senha da Rede Wi-Fi Gadget</figcaption>
+  <figcaption>Figura 7: Senha da Rede Wi-Fi Gadget</figcaption>
 
 </figure>
 
@@ -86,7 +86,7 @@ Desvantagem: Seu computador perde acesso à rede Wi-Fi do local de trabalho, poi
 <figure markdown="span">
 
   ![](../images/coneccao-04.png){ width="531" }
-  <figcaption>Imagem 8: Verificação de Conexão</figcaption>
+  <figcaption>Figura 8: Verificação de Conexão</figcaption>
 
 </figure>
 
@@ -108,7 +108,7 @@ Dica: Procure trabalhar o mais proximo do seu router de forma a garantir um sina
 <figure markdown="span">
 
   ![](../images/coneccao-06.png){ width="269" }
-  <figcaption>Imagem 9: Configuração Wi-Fi</figcaption>
+  <figcaption>Figura 9: Configuração Wi-Fi</figcaption>
 
 </figure>
 
@@ -117,7 +117,7 @@ Dica: Procure trabalhar o mais proximo do seu router de forma a garantir um sina
 <figure markdown="span">
 
   ![](../images/coneccao-07.png){ width="657" }
-  <figcaption>Imagem 10: Lista de redes</figcaption>
+  <figcaption>Figura 10: Lista de redes</figcaption>
 
 </figure>
 
@@ -128,7 +128,7 @@ Dica: Procure trabalhar o mais proximo do seu router de forma a garantir um sina
 <figure markdown="span">
 
   ![](../images/coneccao-08.png){ width="657" }
-  <figcaption>Imagem 11: Conectar Wifi Local</figcaption>
+  <figcaption>Figura 11: Conectar Wifi Local</figcaption>
 
 </figure>
 
@@ -139,7 +139,7 @@ Dica: Procure trabalhar o mais proximo do seu router de forma a garantir um sina
 <figure markdown="span">
 
   ![](../images/coneccao-09.png){ width="270" }
-  <figcaption>Imagem 12: Verificação de Conexão</figcaption>
+  <figcaption>Figura 12: Verificação de Conexão</figcaption>
 
 </figure>
 

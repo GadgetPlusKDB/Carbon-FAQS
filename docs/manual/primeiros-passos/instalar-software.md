@@ -24,7 +24,7 @@ Ou, se preferir, siga os passos abaixo:
 <figure markdown="span">
 
    ![](../images/googledrive-alerta.png){ width="504" }
-   <figcaption>Fig 1: Alerta Google Drive.</figcaption>
+   <figcaption>Figura 1: Alerta Google Drive.</figcaption>
 
 </figure>
 
@@ -38,41 +38,41 @@ Ou, se preferir, siga os passos abaixo:
 <figure markdown="span">
 
    ![](../images/windows-difender.png){ width="800" }
-   <figcaption>Fig 2: Alerta de Segurança do Windows.</figcaption>
+   <figcaption>Figura 2: Alerta de Segurança do Windows.</figcaption>
 
 </figure>
 
 !!! success "Pode continuar"
 
-      Clique em ==Executar assim mesmo== para abrir o instalador. ==Fig: 2==
+      Clique em ==Executar assim mesmo== para abrir o instalador. ==Figura: 2==
 
 <figure markdown="span">
 
    ![](../images/permissão-admin.png){ width="480" }
-   <figcaption>Fig 3: Permissão Administrador.</figcaption>
+   <figcaption>Figura 3: Permissão Administrador.</figcaption>
 
 </figure>
 
-* Se solicitado, conceda permissões de administrador para concluir a instalação. ==Fig 3:==
+* Se solicitado, conceda permissões de administrador para concluir a instalação. ==Figura 3:==
 * No instalador siga as instruções das figuras a baixo.
 * Quando o processo terminar, clique em ==Concluir==.
 
 <figure markdown="span">
 
    ![](../images/setup01.png){ width="380" }
-   <figcaption>Fig 4: Instalar</figcaption>
+   <figcaption>Figura 4: Instalar</figcaption>
   
    ![](../images/setup02.png){ width="625" }
-   <figcaption>Fig 5: Instalar</figcaption>
+   <figcaption>Figura 5: Instalar</figcaption>
 
    ![](../images/setup03.png){ width="625" }
-   <figcaption>Fig 6: Instalar</figcaption>
+   <figcaption>Figura 6: Instalar</figcaption>
 
    ![](../images/setup04.png){ width="625" }
-   <figcaption>Fig 7: Instalar</figcaption>
+   <figcaption>Figura 7: Instalar</figcaption>
 
    ![](../images/setup05.png){ width="625" }
-   <figcaption>Fig 8: Instalar</figcaption>
+   <figcaption>Figura 8: Instalar</figcaption>
   
 </figure>
 

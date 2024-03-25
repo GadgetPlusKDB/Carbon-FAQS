@@ -25,7 +25,7 @@ Bem-vindos ao futuro da tecnologia de corte e gravação a laser!
 
 <figure markdown="span">
 
-  ![cuidados](../images/ImgManual_01.png){ width="700" }
+  ![](../images/ImgManual_01.png){ width="700" }
 
   <figcaption></figcaption>
 </figure>
@@ -58,7 +58,7 @@ monitoram constantemente as condições de funcionamento:
 
 Limpe regularmente as lentes e os espelhos ópticos para manter a qualidade de corte.
 
-![Image title](../images/ImgManual_02.png){ align=left }
+![](../images/ImgManual_02.png){ align=left }
 
 Utilize cotonetes úmidos para realizar a limpeza, sempre de maneira
 muito suave, em movimentos circulares e trocando o cotonete até o
@@ -72,7 +72,7 @@ Use água destilada ou desmineralizada no sistema de resfriamento para evitar a 
 
 <figure markdown="span">
 
-  ![cuidados](../images/ImgManual_03.png){ width="180" }
+  ![](../images/ImgManual_03.png){ width="180" }
 
   <figcaption></figcaption>
 </figure>
@@ -81,7 +81,7 @@ Use água destilada ou desmineralizada no sistema de resfriamento para evitar a 
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_04.png){ width="750" }
+  ![](../images/ImgManual_04.png){ width="750" }
   <figcaption></figcaption>
 
 </figure>
@@ -92,7 +92,7 @@ Use água destilada ou desmineralizada no sistema de resfriamento para evitar a 
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_05.png){ width="750" }
+  ![](../images/ImgManual_05.png){ width="750" }
   <figcaption></figcaption>
 
 </figure>
@@ -103,7 +103,7 @@ Use água destilada ou desmineralizada no sistema de resfriamento para evitar a 
 
 <figure markdown="span">
   
-  ![FrenteMaq](../images/ImgManual_06.png){ width="750" }
+  ![](../images/ImgManual_06.png){ width="750" }
   <figcaption></figcaption>
   
 </figure>
@@ -117,10 +117,10 @@ Use água destilada ou desmineralizada no sistema de resfriamento para evitar a 
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual_07.png#only-light){ width="500" }
+  ![](../images/ImgManual_07.png#only-light){ width="500" }
   <figcaption></figcaption>
 
-  ![FrenteMaq](../images/ImgManual_09.png#only-dark){ width="500" }
+  ![](../images/ImgManual_09.png#only-dark){ width="500" }
   <figcaption></figcaption>
 
 </figure>
@@ -141,10 +141,10 @@ F. Conexão para cabo USB
 
 <figure markdown="span">
 
-  ![TraseiraMaq](../images/ImgManual_08.png#only-light){ width="500" }
+  ![](../images/ImgManual_08.png#only-light){ width="500" }
   <figcaption></figcaption>
 
-  ![TraseiraMaq](../images/ImgManual_10.png#only-dark){ width="500" }
+  ![](../images/ImgManual_10.png#only-dark){ width="500" }
   <figcaption></figcaption>
 
 </figure>
@@ -181,10 +181,10 @@ E. Botão on/off
 
 <figure markdown="span">
 
-  ![TraseiraMaq](../images/ImgManual_11.png){ width="750" }
+  ![](../images/ImgManual_11.png){ width="750" }
   <figcaption></figcaption>
   
-  ![TraseiraMaq](../images/ImgManual_12.png){ width="750" }
+  ![](../images/ImgManual_12.png){ width="750" }
   <figcaption></figcaption>
   
 </figure>
