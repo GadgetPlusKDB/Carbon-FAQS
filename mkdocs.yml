@@ -136,9 +136,9 @@ nav:
     - manual/index.md    
     - Primeiros Passos:
       - Instalar Carbon: manual/primeiros-passos/instalar-carbon.md
-      - Encher Reservatório: manual/primeiros-passos/encher-reservatório.md
       - Instalar Software: manual/primeiros-passos/instalar-software.md
       - Conexão: manual/primeiros-passos/conexão-computador.md
+      - Encher Reservatório: manual/primeiros-passos/encher-reservatório.md
       - Remover Suportes: manual/primeiros-passos/remover-suportes.md
       - Colmeia: manual/primeiros-passos/colmeia.md
     # - Eixo Rotativo: manual/primeiros-passos/eixo-rotativo.md
