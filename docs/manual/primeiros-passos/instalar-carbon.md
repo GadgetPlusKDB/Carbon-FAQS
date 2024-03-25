@@ -29,11 +29,9 @@ Remova apenas os lacres, preferencialmente com um alicate de corte, mas uma teso
   <figcaption></figcaption>
 
   ![FrenteMaq](../images/ImgManual_06.png){ width="750" }
-  <figcaption></figcaption>
+  <figcaption>[Figura 1 - Itens que acompanham a Carbon]</figcaption>
 
 </figure>
-
-[Figura 1 - Itens que acompanham a Carbon]
 
 * Carbon: A máquina de corte a laser, a estrela principal!
 * Colmeia: Protege o fundo da máquina dos efeitos do laser.
@@ -111,6 +109,6 @@ Redes elétricas antigas podem não ter aterramento, então certifique-se disso.
 Tomadas com apenas dois pinos não têm aterramento. Não use adaptadores na sua Carbon para esse tipo de tomada.
 Neste artigo, aprendemos como instalar todos os componentes da nossa Carbon. A próxima etapa é prepará-la para uso, enchendo o reservatório de água!
 
-Não deixe de acompanhar o próximo artigo desta série: [Encher Reservatório].
+Não deixe de acompanhar o próximo artigo desta série: [Instalar Software].
 
-[Encher Reservatório]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-passos/encher-reservat%C3%B3rio/
+[Instalar Software]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/primeiros-passos/instalar-software/

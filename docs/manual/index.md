@@ -223,7 +223,7 @@ Está feito! Agora sua máquina a laser está pronta para iniciar os cortes e gr
 [remoção das bolhas]: https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/tenho-bolhas/
     
 
-## Resulução de Problemas
+## Resolução de problemas
 
 Consulte a base de conhecimentos online na secção [Troubleshooting] para mais informações detalhadas.
 
