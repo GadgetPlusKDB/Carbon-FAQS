@@ -19,10 +19,10 @@ A busca esse ponto de equilíbrio é essencial para obter resultados consistente
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual20.png#only-light){ width="220" }
+  ![FrenteMaq](../images/ImgManual_20.png#only-light){ width="220" }
   <figcaption></figcaption>
 
-  ![FrenteMaq](../images/ImgManual21.png#only-dark){ width="220" }
+  ![FrenteMaq](../images/ImgManual_21.png#only-dark){ width="220" }
   <figcaption></figcaption>
 
 </figure>
@@ -38,7 +38,7 @@ Os parâmetros são ajustados de acordo com a camada selecionada no software, di
 
 <figure markdown="span">
 
-  ![FrenteMaq](../images/ImgManual22.png){ width="431" }
+  ![FrenteMaq](../images/ImgManual_22.png){ width="431" }
   <figcaption></figcaption>
 
 </figure>

@@ -2,11 +2,16 @@
 
 A Carbon oferece três maneiras de se conectar ao seu computador:
 
-[Imagem 1: Conexões USB e Wi-Fi]
+<figure markdown="span">
 
-Conexão via cabo USB
-Conexão Wi-Fi - Rede Carbon
-Conexão Wi-Fi - Rede local de trabalho
+  ![FrenteMaq](../images/ImgManual_24.png){ width="480" }
+  <figcaption>[Imagem 1: Conexões USB e Wi-Fi]</figcaption>
+
+</figure>
+
+* Conexão via cabo USB
+* Conexão Wi-Fi - Rede Carbon
+* Conexão Wi-Fi - Rede local de trabalho
 
 ## Conexão via USB
 
@@ -16,19 +21,39 @@ A versão mais recente do Carbon Studio já inclui automaticamente o Driver do C
 
 [download]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#driver
 
-[Imagem 2: Instalação do Driver USB]
+<figure markdown="span">
+
+  ![FrenteMaq](../images/USB-driver-setup.png){ width="430" }
+  <figcaption>[Imagem 2: Instalação do Driver USB]</figcaption>
+
+</figure>
 
 * Conecte o cabo USB entre o computador e a Gadget.
 
-[Imagem 3: Cabo USB]
+<figure markdown="span">
+
+  ![FrenteMaq](../images/USBCable.png){ width="452" }
+  <figcaption>[Imagem 3: Cabo USB]</figcaption>
+
+</figure>
 
 * Abra o Gestor de Dispositivos do seu computador e verifique se a Carbon foi reconhecida nas Portas COM. Para visualizar os dispositivos reconhecidos, clique na seta e confira se aparece "USB SERIAL CH340".
 
-[Imagem 4: Verificação de Reconhecimento]
+<figure markdown="span">
+
+  ![FrenteMaq](../images/verificar-usb.png){ width="835" }
+  <figcaption>[Imagem 4: Verificação de Reconhecimento]</figcaption>
+
+</figure>
 
 * Confirme se o ícone "Dados de conexão" está verde no Carbon Studio. Se estiver, você já está conectado à Gadget via Cabo USB!
 
-[Imagem 5: Verificação de Conexão]
+<figure markdown="span">
+
+  ![FrenteMaq](../images/Coneccao-01.png){ width="309" }
+  <figcaption>[Imagem 5: Verificação de Conexão]</figcaption>
+
+</figure>
 
 ## Conexão Wi-Fi - Rede Carbon
 
@@ -38,17 +63,32 @@ Vantagem: Mobilidade, sem a necessidade de cabos. Rede Wi-Fi estável.
 
 Desvantagem: Seu computador perde acesso à rede Wi-Fi do local de trabalho, pois precisa se conectar à rede gerada pela Carbon, que não proporciona acesso à Internet, logo o seu computador fica sem internet.
 
-[Imagem 6: Rede Wi-Fi Gadget]
-
 * Encontre a rede "Carbon" na lista de redes disponíveis do seu computador.
+
+<figure markdown="span">
+
+  ![FrenteMaq](../images/coneccao-03.png){ width="365" }
+  <figcaption>[Imagem 6: Rede Wi-Fi Gadget]</figcaption>
+
+</figure>
 
 * A senha para essa rede é sempre "C4rbon!!".
 
-[Imagem 7: Senha da Rede Wi-Fi Gadget]
+<figure markdown="span">
+
+  ![FrenteMaq](../images/coneccao-05.png){ width="370" }
+  <figcaption>[Imagem 7: Senha da Rede Wi-Fi Gadget]</figcaption>
+
+</figure>
 
 * Confira se o ícone "Dados de conexão" está verde no Carbon Studio. Se estiver, você já está conectado à sua máquina via Wi-Fi Carbon!
 
-[Imagem 8: Verificação de Conexão]
+<figure markdown="span">
+
+  ![FrenteMaq](../images/coneccao-04.png){ width="531" }
+  <figcaption>[Imagem 8: Verificação de Conexão]</figcaption>
+
+</figure>
 
 ## Conexão Wi-Fi - Rede local de trabalho
 Neste método, você conecta a Carbon à rede Wi-Fi do seu local de trabalho.
@@ -59,21 +99,49 @@ Vantagem: Mobilidade, sem a necessidade de cabos. Permite acesso à Internet pel
 
 Desvantagem: Esta conexão depende do sinal Wi-Fi do local de trabalho e pode ser mais instável.
 
-[Imagem 9: Configuração Wi-Fi]
+Dica: Procure trabalhar o mais proximo do seu router de forma a garantir um sinal de Wi-fi estável.
+
+
 
 * No Carbon Studio, clique no ícone Configurações na Barra de Controle.
 
+<figure markdown="span">
+
+  ![FrenteMaq](../images/coneccao-06.png){ width="269" }
+  <figcaption>[Imagem 9: Configuração Wi-Fi]</figcaption>
+
+</figure>
+
 * No separador Wi-Fi, clique em Atualizar. O Carbon Studio mostrará todas as conexões disponíveis em seu local.
+
+<figure markdown="span">
+
+  ![FrenteMaq](../images/coneccao-07.png){ width="657" }
+  <figcaption>[Imagem 10: Lista de redes]</figcaption>
+
+</figure>
 
 * Escolha a rede Wi-Fi do seu local de trabalho e clique em Conectar.
 
 * Insira a senha da sua rede, se solicitado, e clique em Aplicar.
 
+<figure markdown="span">
+
+  ![FrenteMaq](../images/coneccao-08.png){ width="657" }
+  <figcaption>[Imagem 11: Conectar Wifi Local]</figcaption>
+
+</figure>
+
 * Se você estava conectado à rede Wi-Fi Carbon para configurar sua máquina, agora pode retornar à sua rede local.
 
 * Confira se o ícone "Dados de conexão" está verde no Carbon Studio. Se sim, a máquina está conectada à sua Rede Local.
 
-[Imagem 10: Verificação de Conexão]
+<figure markdown="span">
+
+  ![FrenteMaq](../images/coneccao-09.png){ width="270" }
+  <figcaption>[Imagem 12: Verificação de Conexão]</figcaption>
+
+</figure>
 
 <!--
 Assista ao vídeo sobre as formas de conectar a sua Gadget:
