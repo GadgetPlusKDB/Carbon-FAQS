@@ -11,12 +11,14 @@ Para entendermos a relevância desse procedimento, é essencial compreender que,
 <figure markdown="span">
 
   ![](../images/laser-cabeçote-light.png#only-light){ width="800" }
-  <figcaption>Figura 1 - Foco ideal</figcaption>
+  <figcaption></figcaption>
 
   ![](../images/laser-cabeçote-dark.png#only-dark){ width="800" }
-  <figcaption>Figura 1 - Foco ideal</figcaption>
+  <figcaption></figcaption>
 
 </figure>
+
+<p style="text-align: center;">_Figura 1 - Foco ideal_</p>
 
 Manter a mesma distância entre o foco do laser e a superfície do material é fundamental. Para garantir essa precisão, utilizamos o nosso gabarito de foco!
 
