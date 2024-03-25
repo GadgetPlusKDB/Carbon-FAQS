@@ -4,7 +4,7 @@ A sua Carbon acabou de chegar e agora é hora de começar a instalação!
 
 Para tornar esse processo mais fácil, a nossa equipa preparou um guia de instalação completo com todas as informações necessárias. Você pode fazer o download [aqui] ou encontrá-lo também na nossa página de suporte.
 
-[aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/
+[aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#manuais
 
 Neste artigo, vamos abordar o tema de forma mais abrangente, oferecendo algumas dicas úteis.
 
