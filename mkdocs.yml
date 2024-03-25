@@ -137,6 +137,7 @@ nav:
     - Primeiros Passos:
       - Instalar Carbon: manual/primeiros-passos/instalar-carbon.md
       - Encher Reservatório: manual/primeiros-passos/encher-reservatório.md
+      - Instalar Software: manual/primeiros-passos/instalar-software.md
       - Conexão: manual/primeiros-passos/conexão-computador.md
       - Remover Suportes: manual/primeiros-passos/remover-suportes.md
       - Colmeia: manual/primeiros-passos/colmeia.md
@@ -167,7 +168,6 @@ nav:
       - Corte ABS: segurança/cuidados-materiais/corte-ABS.md
       - Corte PVC: segurança/cuidados-materiais/corte-PVC.md
   - Studio:
-    - Instalar Software: studio/instalar-software.md
     - Conexão Camera 4K: studio/camera-4k.md
     - Atualização Software: studio/altualização-software.md
     - Truques & Dicas: studio/truques-&-dicas.md
