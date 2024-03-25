@@ -1,5 +1,6 @@
 # Ajustar posição do material
 
+<!--
 <figure markdown="span">
   
   ![](../images/construcao-light.png#only-light){ width="610" }
@@ -9,6 +10,7 @@
   <figcaption></figcaption>
   
 </figure>
+-->
 
 Aqui vamos explorar um passo essencial para garantir o sucesso dos nossos cortes:
 
