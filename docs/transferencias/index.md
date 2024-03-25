@@ -11,7 +11,7 @@
 
     [Studio]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/instalar-software/
 
-    [Donwload](https://drive.google.com/file/d/1ZpGXJ9PmYbZm80LpIJZZhfoUxNVPbZFS/view?usp=drive_link){ .md-button target="_blank"}   
+    [Donwload] (https://drive.google.com/file/d/1ZpGXJ9PmYbZm80LpIJZZhfoUxNVPbZFS/view?usp=drive_link){ .md-button target="_blank"}   
 
 ---
 
@@ -24,7 +24,7 @@
 
     Saiba mais detalhes sobre a conecção USB [aqui].
 
-    [aqui] https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
+    [aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
 
     [Donwload] (https://drive.google.com/file/d/10JnDWMeaWblnzpIX60-MD6HoB6qVqJ4M/view?usp=sharing){ .md-button target="_blank"}  
 
@@ -40,7 +40,7 @@
 
     [Manual]: https://gadgetpluskdb.github.io/Carbon-FAQS/manual/
 
-    [Donwload](https://drive.google.com/file/d/13DUftgwJGqejUsqd7jw9DPkOKlijwGHv/view?usp=sharing){ .md-button target="_blank"}
+    [Donwload] (https://drive.google.com/file/d/13DUftgwJGqejUsqd7jw9DPkOKlijwGHv/view?usp=sharing){ .md-button target="_blank"}
 
 ---
 
@@ -63,6 +63,7 @@
     link seguintes inclui o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
     [Projeto] (https://drive.google.com/file/d/1sXBBHdIT-MMOdsV7ryLSCILYHcarwev2/view?usp=sharing){ .md-button target="_blank"}
+
     [G-CODE] (){ .md-button target="_blank"}
 
 ---
@@ -73,6 +74,7 @@
     link seguintes inclui o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
     [Projeto] (https://drive.google.com/file/d/1CE58HRJOO_tI00HNdA3JmXp3heHcVoD9/view?usp=sharing){ .md-button target="_blank"}
+
     [G-CODE] (){ .md-button target="_blank"}
 
 ---
@@ -83,6 +85,7 @@
     link seguintes inclui o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
     [Projeto] (https://drive.google.com/file/d/1z6PlYjiTuLXBJqLrnuXp9qL-hYLv3Kj_/view?usp=sharing){ .md-button target="_blank"}
+
     [G-CODE] (){ .md-button target="_blank"}
 
 !!! sucess ""
@@ -91,4 +94,5 @@
     link seguintes inclui o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
     [Projeto] (https://drive.google.com/file/d/1k_l5uuwtH0bzU3JK1k7zACYLTk-kWAE9/view?usp=sharing){ .md-button target="_blank"}
+
     [G-CODE] (){ .md-button target="_blank"}    
