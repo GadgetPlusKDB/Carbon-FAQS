@@ -1,17 +1,5 @@
 # Ajustar posição do material
 
-<!--
-<figure markdown="span">
-  
-  ![](../images/construcao-light.png#only-light){ width="610" }
-  <figcaption></figcaption>
-
-  ![](../images/construcao-dark.png#only-dark){ width="610" }
-  <figcaption></figcaption>
-  
-</figure>
--->
-
 Aqui vamos explorar um passo essencial para garantir o sucesso dos nossos cortes:
 
 O posicionamento do desenho no material. Para isso, é crucial compreender o funcionamento do painel de controle no Carbon Studio. Que tal dar uma olhada a esse artigo da nossa série sobre o [Studio]?
