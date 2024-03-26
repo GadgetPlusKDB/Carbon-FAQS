@@ -28,7 +28,7 @@ Os valores apresentados na tabela abaixo são uma referência inicial e um ponto
 
 |Material                 |Especificação  |Objetivo       |Modo                         |Potência |Velocidade |
 |:---                     |:---           |:---           |:---:                        |:---     |:---       |
-|Acrílico                 |2mm            |Corte          |:fontawesome-solid-scissors: |100      |12         |
+|Acrílico                 |2mm            |:fontawesome-solid-scissors: Corte          ||100      |12         |
 |Acrílico                 |3mm            |Corte          |:fontawesome-solid-scissors: |100|10|
 |Acrílico                 |4mm            |Corte          |:fontawesome-solid-scissors: |100|5|
 |Acrílico                 |6mm            |Corte          |:fontawesome-solid-scissors: |100|3|
