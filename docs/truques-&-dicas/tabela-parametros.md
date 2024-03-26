@@ -52,30 +52,30 @@ Os valores apresentados na tabela abaixo são uma referência inicial e um ponto
 |Bambu                    |5mm            |:fontawesome-solid-scissors: Corte  |100       |4-5        |
 |Bambu                    |Indiferente    |:material-draw-pen: Contorno        |15        |40         |
 |Bambu                    |Indiferente    |:material-printer: Preenchimento    |15        |100        |
-|Compensado Virola        |2,8mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
-|Compensado Marfim        |2,8mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
-|Compensado Curupixá      |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |10         |
-|Compensado Tauari        |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |10         |
-|Compensado Amapá         |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |10         |
-|Compensado               |Indiferente    |:material-printer: Preenchimento    |15        |100        |
-|Madeira Cumaru           |2,5mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
-|Madeira Cumaru           |Indiferente    |:material-draw-pen: Contorno        |20        |40         |
-|Madeira Cumaru           |Indiferente    |:material-printer: Preenchimento    |15        |100        |
-|MDF pinnus               |3mm            |:fontawesome-solid-scissors: Corte  |100       |10         |
-|MDF pinnus               |6mm            |:fontawesome-solid-scissors: Corte  |100       |3          |
-|MDF pinnus               |Indiferente    |:material-draw-pen: Contorno        |20        |40         |
-|MDF pinnus               |Indiferente    |:material-printer: Preenchimento    |15        |100        |
+|Contraplacado Virola     |2,8mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
+|Contraplacado Marfim     |2,8mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
+|Contraplacado Curupixá   |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |10         |
+|Contraplacado Tauari     |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |10         |
+|Contraplacado Amapá      |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |10         |
+|Contraplacado            |Indiferente    |:material-printer: Preenchimento    |15        |100        |
+|Madeira Sucupira         |2,5mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
+|Madeira Sucupira         |Indiferente    |:material-draw-pen: Contorno        |20        |40         |
+|Madeira Sucupira         |Indiferente    |:material-printer: Preenchimento    |15        |100        |
+|MDF Pinho                |3mm            |:fontawesome-solid-scissors: Corte  |100       |10         |
+|MDF Pinho                |6mm            |:fontawesome-solid-scissors: Corte  |100       |3          |
+|MDF Pinho                |Indiferente    |:material-draw-pen: Contorno        |20        |40         |
+|MDF Pinho                |Indiferente    |:material-printer: Preenchimento    |15        |100        |
 |Balsa                    |1,5mm          |:fontawesome-solid-scissors: Corte  |40        |60-65      |
 |Balsa                    |Indiferente    |:material-draw-pen: Contorno        |15        |40         |
 |Balsa                    |Indiferente    |:material-printer: Preenchimento    |15        |100        |
 |Papel Couro              |Indiferente    |:material-draw-pen: Contorno        |15        |40         |
 |Papel Couro              |Indiferente    |:material-printer: Preenchimento    |10        |100        |
-|Horller                  |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
-|Horller                  |2mm            |:fontawesome-solid-scissors: Corte  |100       |10         |
-|Horller                  |3mm            |:fontawesome-solid-scissors: Corte  |100       |7          |
-|Horller                  |Indiferente    |:fontawesome-solid-scissors: Vinco  |100       |30         |
-|Horller                  |Indiferente    |:material-draw-pen: Contorno        |10        |40         |
-|Horller                  |Indiferente    |:material-printer: Preenchimento    |10        |100        |
+|Papelão holler           |1,8mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
+|Papelão holler           |2mm            |:fontawesome-solid-scissors: Corte  |100       |10         |
+|Papelão holler           |3mm            |:fontawesome-solid-scissors: Corte  |100       |7          |
+|Papelão holler           |Indiferente    |:fontawesome-solid-scissors: Vinco  |100       |30         |
+|Papelão holler           |Indiferente    |:material-draw-pen: Contorno        |10        |40         |
+|Papelão holler           |Indiferente    |:material-printer: Preenchimento    |10        |100        |
 |Tecido                   |Organza        |:fontawesome-solid-scissors: Corte  |12        |80         |
 |Tecido                   |Cetim          |:fontawesome-solid-scissors: Corte  |8/9       |80/90      |
 |Borracha carimbo laranja |2,2mm          |:fontawesome-solid-scissors: Corte  |100       |12         |
@@ -90,3 +90,7 @@ Os valores apresentados na tabela abaixo são uma referência inicial e um ponto
 |Copo Stanley             |Indiferente    |:material-printer: Preenchimento    |70        |150        |
 |Lápis                    |Indiferente    |:material-printer: Preenchimento    |20        |80         |
 |Lápis                    |Indiferente    |:material-draw-pen: Contorno        |10        |30         |
+
+
+Pode fazer download de uma versão desta tabela em PDF [aqui].
+[aqui:]: #

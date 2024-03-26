@@ -74,3 +74,19 @@
     Os seguintes link's incluem  o projeto em SVG e o projeto em G-CODE para a sua Carbon.
 
     [Download](https://drive.google.com/file/d/1YQ8g6jjjvwMGDgkdkSCr4OcjbvWS8gBA/view?usp=sharing){ .md-button target="_blank"} 
+
+## Tabela de parâmetros pdf.
+
+!!! success ""
+
+    ### Tabela em formato pdf
+    Para saber mais sobre os difrentes parâmetros consulte os seguintes links 
+    [Tabela de parametros] - [teste de parametros] - [A influencia da velocidade e potência]
+
+    [Tabela de parametros]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/tabela-parametros/
+    
+    [Teste de parametros]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/testes-parametros/
+    
+    [A influencia da velocidade e potência]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/influ-velocidade-material/
+
+    [Download](https://drive.google.com/file/d/1CxQx5le9MeyUz4vuLkVUGNjaVHhfYy4L/view?usp=sharing){ .md-button target="_blank"}     
