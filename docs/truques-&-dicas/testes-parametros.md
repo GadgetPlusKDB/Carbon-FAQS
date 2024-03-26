@@ -24,7 +24,7 @@ Foram desenvolvidos três modelos distintos de testes, levando em consideração
 
 Para facilitar ainda mais sua jornada, pode fazer o download dos testes de corte na nossa pagina de [downloads].
 
-[downloads]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#arquivos-para-testes-de-parametros
+[downloads]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#arquivos-para-testes-de-corte
 
 Para um entendimento mais aprofundado sobre cada um dos testes e suas aplicações específicas, aqui está uma breve explicação:
 

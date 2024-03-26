@@ -93,4 +93,4 @@ Os valores apresentados na tabela abaixo são uma referência inicial e um ponto
 
 
 Pode fazer download de uma versão desta tabela em PDF [aqui].
-[aqui:]: #
+[aqui:]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/#tabela-de-parametros-pdf
