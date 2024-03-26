@@ -80,7 +80,8 @@
 !!! success ""
 
     ### Tabela em formato pdf
-    Para saber mais sobre os difrentes parâmetros consulte os seguintes links 
+    Para saber mais sobre os difrentes parâmetros consulte os seguintes links. 
+
     [Tabela de parametros] - [teste de parametros] - [A influencia da velocidade e potência]
 
     [Tabela de parametros]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/tabela-parametros/
