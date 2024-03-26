@@ -62,9 +62,9 @@ Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste 
 
 </figure>
 
-### Dica:
-
-Utilize os parâmetros obtidos com os Testes de Corte para agilizar os testes em materiais semelhantes em termos de espessura e rigidez. Por exemplo, se já realizou testes em acrílico espelhado de 2mm, os valores obtidos podem ser aplicados diretamente a outros materiais de mesma espessura, poupando tempo e material.
+!!! tip "Dica:"
+  
+    Utilize os parâmetros obtidos com os Testes de Corte para agilizar os testes em materiais semelhantes em termos de espessura e rigidez. Por exemplo, se já realizou testes em acrílico espelhado de 2mm, os valores obtidos podem ser aplicados diretamente a outros materiais de mesma espessura, poupando tempo e material.
 
 Este artigo oferece uma visão abrangente dos testes de corte, proporcionando uma abordagem fácil e precisa na determinação dos parâmetros ideais para o seu material.
 
