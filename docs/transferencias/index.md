@@ -11,9 +11,7 @@
 
     [Studio]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/instalar-software/
 
-    [Download](https://drive.google.com/file/d/1ZpGXJ9PmYbZm80LpIJZZhfoUxNVPbZFS/view?usp=drive_link){ .md-button target="_blank"}   
-
----
+    [Download](https://drive.google.com/file/d/1ZpGXJ9PmYbZm80LpIJZZhfoUxNVPbZFS/view?usp=drive_link){ .md-button target="_blank"}
 
 ## Drivers
 
@@ -26,9 +24,8 @@
 
     [aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
 
-    [Download](https://drive.google.com/file/d/10JnDWMeaWblnzpIX60-MD6HoB6qVqJ4M/view?usp=sharing){ .md-button target="_blank"}  
-
-
+    [Download](https://drive.google.com/file/d/10JnDWMeaWblnzpIX60-MD6HoB6qVqJ4M/view?usp=sharing){ .md-button target="_blank"}
+    
 ## Manuais
 
 !!! success ""
@@ -82,7 +79,7 @@
     ### Tabela em formato pdf
     Para saber mais sobre os difrentes parâmetros consulte os seguintes links. 
 
-    [Tabela de parametros] - [teste de parametros] - [A influencia da velocidade e potência]
+    [Tabela de parametros] - [Teste de parametros] - [A influencia da velocidade e potência]
 
     [Tabela de parametros]: https://gadgetpluskdb.github.io/Carbon-FAQS/truques-%26-dicas/tabela-parametros/
     
