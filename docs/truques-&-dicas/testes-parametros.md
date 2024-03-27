@@ -73,7 +73,7 @@ Para usar os aquivos G-code que nos disponibilizamos tem que usar a janela de Pr
 
 <figure markdown="span">
 
-  ![](../images/image-placeholder.png){ width="450" }
+  ![](../images/abrir-gcode-01.png){ width="529" }
   <figcaption>Figura 4 - Abrir janela preview</figcaption>
 
 </figure>
@@ -82,7 +82,7 @@ Com a janela preview aberta no campo superior direito tem um botão de opções 
 
 <figure markdown="span">
 
-  ![](../images/image-placeholder.png){ width="450" }
+  ![](../images/abrir-gcode-02.png){ width="930" }
   <figcaption>Figura 5 - Botão Opções</figcaption>
 
 </figure>
@@ -91,7 +91,7 @@ Clique na opção ++"Carregar"++ encontre o seu arquivo G-Code e ele será carre
 
 <figure markdown="span">
 
-  ![](../images/image-placeholder.png){ width="450" }
+  ![](../images/abrir-gcode-03.png){ width="930" }
   <figcaption>Figura 5 - Botão Opções</figcaption>
 
 </figure>
