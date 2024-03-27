@@ -69,7 +69,7 @@ Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste 
 
 ## Como faço para executar os aquivos G-code
 
-Para usar os aquivos G-code que nos disponibilizamos tem que utilizar a janela de preview do Carbon Studio, a janela não abre se não tiver nada selecionado, por isso desenhe um quadradinho ou uma bolinha selecione-a e clique em ++"preview"++ para abrir a janela.
+Para usar os aquivos G-code que nós disponibilizamos tem que utilizar a janela de preview do Carbon Studio, a janela não abre se não tiver nada selecionado, por isso desenhe um quadradinho ou uma bolinha selecione-a e clique em ++"preview"++ para abrir a janela.
 
 <figure markdown="span">
 
