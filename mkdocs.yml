@@ -168,9 +168,6 @@ nav:
       - Corte ABS: segurança/cuidados-materiais/corte-ABS.md
       - Corte PVC: segurança/cuidados-materiais/corte-PVC.md
   - Studio:
-    - Conexão Camera 4K: studio/camera-4k.md
-    - Atualização Software: studio/altualização-software.md
-    - Truques & Dicas: studio/truques-&-dicas.md
     - Primeiros Passos:
       - Camadas: studio/primeiros-passos/camadas.md
       - Janela Inicial: studio/primeiros-passos/janela-inicial.md
@@ -189,6 +186,9 @@ nav:
       - Desenho Livre: studio/tutorial-avançado/desenho-livre.md
       - Caligrafia: studio/tutorial-avançado/caligrafia.md
       - Interpolação: studio/tutorial-avançado/interpolação.md
+    - Conexão Camera 4K: studio/camera-4k.md
+    - Atualização Software: studio/altualização-software.md
+    - Truques & Dicas: studio/truques-&-dicas.md      
   - Troubleshooting:
     - Corte Diferente:
       - Ajustar Correias: troubleshooting/corte-diferente/ajustar-correias.md
@@ -240,4 +240,3 @@ nav:
     - Fazer um letreiro: truques-&-dicas/fazer-letreiro.md
     - Acrílicos espelhados: truques-&-dicas/acrilico-espelhado.md
     - Codigos Spotify: truques-&-dicas/spotify-code.md
-    

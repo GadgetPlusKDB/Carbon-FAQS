@@ -2,7 +2,7 @@
 
 ## Software
 
-!!! success ""
+!!! note ""
 
     ### Carbon Studio Versão 1.5.1
     Clique botão seguinte para fazer download do software.
@@ -15,7 +15,7 @@
 
 ## Drivers
 
-!!! success ""
+!!! note ""
 
     ### Driver USB
     Clique no botão seguinte para fazer download do driver adequado á nossa controladora.
@@ -28,7 +28,7 @@
     
 ## Manuais
 
-!!! success ""
+!!! note ""
 
     ### Manual Carbon
     Clique botão seguinte para fazer download do manual Carbon em PDF.
@@ -50,7 +50,7 @@
 
 ## Arquivos para testes de Corte
 
-!!! success ""
+!!! note ""
 
     ### Testes de corte para gravação
     Os seguintes link's incluem o projeto em SVG e o projeto em G-CODE para a sua Carbon.
@@ -74,7 +74,7 @@
 
 ## Tabela de parâmetros pdf.
 
-!!! success ""
+!!! note ""
 
     ### Tabela em formato pdf
     Para saber mais sobre os difrentes parâmetros consulte os seguintes links. 
