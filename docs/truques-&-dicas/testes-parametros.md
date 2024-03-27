@@ -28,14 +28,21 @@ Para facilitar ainda mais sua jornada, pode fazer o download dos testes de corte
 
 Para um entendimento mais aprofundado sobre cada um dos testes e suas aplicações específicas, aqui está uma breve explicação:
 
+<figure markdown="span">
+
+  ![](../images/testes.png){ width="1000" }
+  <figcaption>Figura 1 - Projeto corte Genérico</figcaption>
+
+</figure>
+
 ## Teste geral:
 
 Este modelo oferece uma ampla gama de variações de parâmetros e é especialmente eficaz para materiais de densidade média.
 
 <figure markdown="span">
 
-  ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 1 - Projeto corte Genérico</figcaption>
+  ![](../images/teste-generico.png){ width="1000" }
+  <figcaption>Figura 2 - Projeto corte Genérico</figcaption>
 
 </figure>
 
@@ -45,7 +52,10 @@ Projetado para materiais como MDF (entre 3mm e 6mm), couro grosso (2mm), compens
 
 <figure markdown="span">
 
-  ![](../images/image-placeholder.png){ width="450" }
+  ![](../images/teste-rigido-01.png){ width="900" }
+  <figcaption></figcaption>
+
+  ![](../images/teste-rigido-02.png){ width="900" }
   <figcaption>Figura 2 - Projeto corte Rígido</figcaption>
 
 </figure>
@@ -57,7 +67,10 @@ Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste 
 
 <figure markdown="span">
 
-  ![](../images/image-placeholder.png){ width="450" }
+  ![](../images/teste-leves-01.png){ width="900" }
+  <figcaption>Figura 3 - Projeto corte Leve</figcaption>
+
+  ![](../images/teste-leves-02.png){ width="900" }
   <figcaption>Figura 3 - Projeto corte Leve</figcaption>
 
 </figure>
