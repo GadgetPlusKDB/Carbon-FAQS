@@ -1,15 +1,5 @@
 # Projetos para testes de parâmetros
 
-<figure markdown="span">
-  
-  ![](../images/construcao-light.png#only-light){ width="610" }
-  <figcaption></figcaption>
-
-  ![](../images/construcao-dark.png#only-dark){ width="610" }
-  <figcaption></figcaption>
-  
-</figure>
-
 Neste artigo, vamos explorar detalhadamente a utilização eficaz dos Testes de Corte, uma ferramenta indispensável para otimizar seus projetos de corte.
 
 Esses testes são projetados para auxiliá-lo na determinação dos melhores parâmetros de corte, tais como velocidade e potência, adaptados especificamente às características do seu material.
@@ -35,18 +25,18 @@ Para um entendimento mais aprofundado sobre cada um dos testes e suas aplicaçõ
 
 </figure>
 
-## Teste geral:
+## Teste para materiais genérico
 
 Este modelo oferece uma ampla gama de variações de parâmetros e é especialmente eficaz para materiais de densidade média.
 
 <figure markdown="span">
-
+  
   ![](../images/teste-generico.png){ width="1000" }
   <figcaption>Figura 2 - Projeto corte Genérico</figcaption>
 
 </figure>
 
-## Teste para materiais rígidos:
+## Teste para materiais rígidos
 
 Projetado para materiais como MDF (entre 3mm e 6mm), couro grosso (2mm), compensado (3mm) e papelão holler (3mm), este teste apresenta configurações com potências mais elevadas e velocidades mais baixas.
 
@@ -56,24 +46,39 @@ Projetado para materiais como MDF (entre 3mm e 6mm), couro grosso (2mm), compens
   <figcaption></figcaption>
 
   ![](../images/teste-rigido-02.png){ width="700" }
-  <figcaption>Figura 2 - Projeto corte Rígido</figcaption>
+  <figcaption>Figura 3 - Projeto corte Rígido</figcaption>
 
 </figure>
 
 
-## Teste para materiais finos e leves:
+## Teste para materiais finos e leves
 
 Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste é otimizado para potências mais baixas e velocidades mais altas.
 
 <figure markdown="span">
 
   ![](../images/teste-leves-01.png){ width="700" }
-  <figcaption>Figura 3 - Projeto corte Leve</figcaption>
+  <figcaption></figcaption>
 
   ![](../images/teste-leves-02.png){ width="700" }
-  <figcaption>Figura 3 - Projeto corte Leve</figcaption>
+  <figcaption>Figura 4 - Projeto corte Leve</figcaption>
 
 </figure>
+
+## Teste para gravações
+
+Este teste serve para ententer qual os melhores parametros para fazer gravções nas difrentes variadades de materiais.
+
+<figure markdown="span">
+
+  ![](../images/teste-gravacoes-01.png){ width="700" }
+  <figcaption></figcaption>
+
+  ![](../images/teste-gravacoes-02.png){ width="700" }
+  <figcaption>Figura 5 - Projeto gravações</figcaption>
+
+</figure>
+
 
 !!! tip "Dica:"
   
@@ -87,16 +92,16 @@ Para usar os aquivos G-code que nós disponibilizamos tem que utilizar a janela 
 <figure markdown="span">
 
   ![](../images/abrir-gcode-01.png){ width="529" }
-  <figcaption>Figura 4 - Abrir janela preview</figcaption>
+  <figcaption>Figura 6 - Abrir janela preview</figcaption>
 
 </figure>
 
-Com a janela preview aberta no canto superior direito encontra um botão de opções :fontawesome-solid-list: onde pode carregar um G-Code ou até mesmo guardar o seu proprio, veja a Figura 5 abaixo.
+Com a janela preview aberta no canto superior direito encontra um botão de opções :fontawesome-solid-list: onde pode carregar um G-Code ou até mesmo guardar o seu proprio, veja a Figura 7 abaixo.
 
 <figure markdown="span">
 
   ![](../images/abrir-gcode-02.png){ width="930" }
-  <figcaption>Figura 5 - Botão Opções</figcaption>
+  <figcaption>Figura 7 - Botão Opções</figcaption>
 
 </figure>
 
@@ -105,7 +110,7 @@ Clique na opção ++"Carregar"++, encontre o seu arquivo G-Code, ele será carre
 <figure markdown="span">
 
   ![](../images/abrir-gcode-03.png){ width="930" }
-  <figcaption>Figura 5 - G-code Carregado</figcaption>
+  <figcaption>Figura 8 - G-code Carregado</figcaption>
 
 </figure>
 
