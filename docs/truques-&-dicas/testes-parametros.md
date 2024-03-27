@@ -46,7 +46,7 @@ Projetado para materiais como MDF (entre 3mm e 6mm), couro grosso (2mm), compens
 <figure markdown="span">
 
   ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 1 - Projeto corte Rígido</figcaption>
+  <figcaption>Figura 2 - Projeto corte Rígido</figcaption>
 
 </figure>
 
@@ -58,13 +58,43 @@ Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste 
 <figure markdown="span">
 
   ![](../images/image-placeholder.png){ width="450" }
-  <figcaption>Figura 1 - Projeto corte Leve</figcaption>
+  <figcaption>Figura 3 - Projeto corte Leve</figcaption>
 
 </figure>
 
 !!! tip "Dica:"
   
     Utilize os parâmetros obtidos com os Testes de Corte para agilizar os testes em materiais semelhantes em termos de espessura e rigidez. Por exemplo, se já realizou testes em acrílico espelhado de 2mm, os valores obtidos podem ser aplicados diretamente a outros materiais de mesma espessura, poupando tempo e material.
+
+
+## Como faço para executar os aquivos G-code
+
+Para usar os aquivos G-code que nos disponibilizamos tem que usar a janela de Preview no carbon studio, a janela não abre se não tiver nada selecionado, por isso desenhe um quadradinho ou uma bolinha selecione e clique ++"preview"++ para poder abrir a janela.
+
+<figure markdown="span">
+
+  ![](../images/image-placeholder.png){ width="450" }
+  <figcaption>Figura 4 - Abrir janela preview</figcaption>
+
+</figure>
+
+Com a janela preview aberta no campo superior direito tem um botão de opções onde pode carregar um G-Code ou até mesmo guardar o seu proprio, veja a Figura 5 abaixo.
+
+<figure markdown="span">
+
+  ![](../images/image-placeholder.png){ width="450" }
+  <figcaption>Figura 5 - Botão Opções</figcaption>
+
+</figure>
+
+Clique na opção ++"Carregar"++ encontre o seu arquivo G-Code e ele será carregado para a janela de preview, e pronto agora é so clicar ++"Carbon It"++
+
+<figure markdown="span">
+
+  ![](../images/image-placeholder.png){ width="450" }
+  <figcaption>Figura 5 - Botão Opções</figcaption>
+
+</figure>
 
 Este artigo oferece uma visão abrangente dos testes de corte, proporcionando uma abordagem fácil e precisa na determinação dos parâmetros ideais para o seu material.
 
