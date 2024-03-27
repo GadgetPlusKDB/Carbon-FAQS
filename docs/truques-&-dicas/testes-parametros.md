@@ -25,7 +25,7 @@ Para um entendimento mais aprofundado sobre cada um dos testes e suas aplicaçõ
 
 </figure>
 
-## Teste para materiais genérico
+### Teste para materiais genérico
 
 Este modelo oferece uma ampla gama de variações de parâmetros e é especialmente eficaz para materiais de densidade média.
 
@@ -36,7 +36,7 @@ Este modelo oferece uma ampla gama de variações de parâmetros e é especialme
 
 </figure>
 
-## Teste para materiais rígidos
+### Teste para materiais rígidos
 
 Projetado para materiais como MDF (entre 3mm e 6mm), couro grosso (2mm), compensado (3mm) e papelão holler (3mm), este teste apresenta configurações com potências mais elevadas e velocidades mais baixas.
 
@@ -51,7 +51,7 @@ Projetado para materiais como MDF (entre 3mm e 6mm), couro grosso (2mm), compens
 </figure>
 
 
-## Teste para materiais finos e leves
+### Teste para materiais finos e leves
 
 Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste é otimizado para potências mais baixas e velocidades mais altas.
 
@@ -65,7 +65,7 @@ Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste 
 
 </figure>
 
-## Teste para gravações
+### Teste para gravações
 
 Este teste serve para ententer qual os melhores parametros para fazer gravções nas difrentes variadades de materiais.
 
