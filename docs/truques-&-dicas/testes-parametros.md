@@ -78,7 +78,7 @@ Para usar os aquivos G-code que nos disponibilizamos tem que usar a janela de Pr
 
 </figure>
 
-Com a janela preview aberta no campo superior direito tem um botão de opções onde pode carregar um G-Code ou até mesmo guardar o seu proprio, veja a Figura 5 abaixo.
+Com a janela preview aberta no campo superior direito tem um botão de opções :material-menu: onde pode carregar um G-Code ou até mesmo guardar o seu proprio, veja a Figura 5 abaixo.
 
 <figure markdown="span">
 
