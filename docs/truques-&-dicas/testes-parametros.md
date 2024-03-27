@@ -52,10 +52,10 @@ Projetado para materiais como MDF (entre 3mm e 6mm), couro grosso (2mm), compens
 
 <figure markdown="span">
 
-  ![](../images/teste-rigido-01.png){ width="900" }
+  ![](../images/teste-rigido-01.png){ width="700" }
   <figcaption></figcaption>
 
-  ![](../images/teste-rigido-02.png){ width="900" }
+  ![](../images/teste-rigido-02.png){ width="700" }
   <figcaption>Figura 2 - Projeto corte Rígido</figcaption>
 
 </figure>
@@ -67,10 +67,10 @@ Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste 
 
 <figure markdown="span">
 
-  ![](../images/teste-leves-01.png){ width="900" }
+  ![](../images/teste-leves-01.png){ width="700" }
   <figcaption>Figura 3 - Projeto corte Leve</figcaption>
 
-  ![](../images/teste-leves-02.png){ width="900" }
+  ![](../images/teste-leves-02.png){ width="700" }
   <figcaption>Figura 3 - Projeto corte Leve</figcaption>
 
 </figure>
