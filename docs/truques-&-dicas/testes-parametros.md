@@ -69,7 +69,7 @@ Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste 
 
 ## Como faço para executar os aquivos G-code
 
-Para usar os aquivos G-code que nos disponibilizamos tem que usar a janela de preview do Carbon Studio, a janela não abre se não tiver nada selecionado, por isso desenhe um quadradinho ou uma bolinha selecione e clique em ++"preview"++ para poder abrir a janela.
+Para usar os aquivos G-code que nos disponibilizamos tem que utilizar a janela de preview do Carbon Studio, a janela não abre se não tiver nada selecionado, por isso desenhe um quadradinho ou uma bolinha selecione-a e clique em ++"preview"++ para abrir a janela.
 
 <figure markdown="span">
 
@@ -78,7 +78,7 @@ Para usar os aquivos G-code que nos disponibilizamos tem que usar a janela de pr
 
 </figure>
 
-Com a janela preview aberta no campo superior direito encontra um botão de opções :fontawesome-solid-list: onde pode carregar um G-Code ou até mesmo guardar o seu proprio, veja a Figura 5 abaixo.
+Com a janela preview aberta no canto superior direito encontra um botão de opções :fontawesome-solid-list: onde pode carregar um G-Code ou até mesmo guardar o seu proprio, veja a Figura 5 abaixo.
 
 <figure markdown="span">
 
@@ -87,12 +87,12 @@ Com a janela preview aberta no campo superior direito encontra um botão de opç
 
 </figure>
 
-Clique na opção ++"Carregar"++ encontre o seu arquivo G-Code, ele será carregado para a janela de preview e pronto agora é so clicar ++"Carbon It"++
+Clique na opção ++"Carregar"++, encontre o seu arquivo G-Code, ele será carregado para a janela de preview e pronto agora é so clicar ++"Carbon It"++
 
 <figure markdown="span">
 
   ![](../images/abrir-gcode-03.png){ width="930" }
-  <figcaption>Figura 5 - Botão Opções</figcaption>
+  <figcaption>Figura 5 - G-code Carregado</figcaption>
 
 </figure>
 
