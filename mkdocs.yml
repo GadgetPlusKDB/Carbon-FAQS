@@ -169,8 +169,8 @@ nav:
       - Corte PVC: segurança/cuidados-materiais/corte-PVC.md
   - Studio:
     - Primeiros Passos:
-      - Camadas: studio/primeiros-passos/camadas.md
       - Janela Inicial: studio/primeiros-passos/janela-inicial.md
+      - Camadas: studio/primeiros-passos/camadas.md
       - Comandos Conexão: studio/primeiros-passos/comando-conexão.md
       - Comandos Movimento: studio/primeiros-passos/comando-movimento.md
       - Função Preview: studio/primeiros-passos/função-preview.md
