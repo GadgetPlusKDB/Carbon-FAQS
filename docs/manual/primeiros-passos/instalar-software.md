@@ -19,7 +19,7 @@ Ou, se preferir, siga os passos abaixo:
 * Escolha o link do Carbon Studio compatível sua Carbon.
 * Será redirecionado para uma página no Google Drive. Clique em ==Transferir== > ==Transferir mesmo assim== para iniciar o download. ==Fig 1:==
 
-[downloads]: https://egadgetpluskdb.github.io/Carbon-FAQS/transferencias/
+[downloads]: https://gadgetpluskdb.github.io/Carbon-FAQS/transferencias/
 
 <figure markdown="span">
 
