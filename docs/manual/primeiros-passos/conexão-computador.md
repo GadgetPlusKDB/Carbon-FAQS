@@ -158,8 +158,8 @@ Teve algum problema na hora de se conectar? Que tal dar uma olhadinha nesses art
 * Troubleshooting - [Rede Wi-fi Carbon]
 * Troubleshooting - [Rede Wi-fi local de trabalho]
 
-[Cabo USB]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-via-usb
+[Cabo USB]: https://gadgetpluskdb.github.io/Carbon-FAQS/troubleshooting/n%C3%A3o-conecta/cabo-usb/
 
-[Rede Wi-fi Carbon]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-wi-fi-rede-carbon
+[Rede Wi-fi Carbon]: https://gadgetpluskdb.github.io/Carbon-FAQS/troubleshooting/n%C3%A3o-conecta/wifi-carbon/
 
-[Rede Wi-fi local de trabalho]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/conex%C3%A3o-computador/#conexao-wi-fi-rede-local-de-trabalho
+[Rede Wi-fi local de trabalho]: https://gadgetpluskdb.github.io/Carbon-FAQS/troubleshooting/n%C3%A3o-conecta/wifi-local/
