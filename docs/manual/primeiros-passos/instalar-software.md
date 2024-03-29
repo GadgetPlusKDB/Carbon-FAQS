@@ -80,7 +80,7 @@ Ou, se preferir, siga os passos abaixo:
 
 Quer aprender mais sobre como utilizar o software? Avance para anossa série de artigos sobre o Carbon Studio [Aqui].
 
-[Aqui]: https://egadgetpluskdb.github.io/Carbon-FAQS/studio/altualiza%C3%A7%C3%A3o-software/
+[Aqui]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/altualiza%C3%A7%C3%A3o-software/
 
 Você aprendeu como instalar os software necessário para controlar a sua Carbon no Windows 10 ou em versões mais recentes. Agora, o próximo passo é [conectar] a sua Carbon ao computador.
 
