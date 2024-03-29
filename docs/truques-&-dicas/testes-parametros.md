@@ -67,7 +67,7 @@ Indicado para materiais como feltro, tecido e papel até 180 gramas, este teste 
 
 ### Teste para gravações
 
-Este teste serve para ententer qual os melhores parametros para fazer gravções nas difrentes variadades de materiais.
+Este teste serve para ententer qual os melhores parametros para fazer gravações nas difrentes variadades de materiais.
 
 <figure markdown="span">
 
