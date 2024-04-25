@@ -28,7 +28,7 @@ hide:
 
     ---
 
-    Precisa de informação sobre como fazer qualquer tipo de manutenção na sua Carbom, então aqui é o lugar.
+    Precisa de informação sobre como fazer qualquer tipo de manutenção na sua Carbon, então aqui é o lugar.
 
     [:octicons-arrow-right-24: Saber Mais](https://gadgetpluskdb.github.io/Carbon-FAQS/manuten%C3%A7%C3%A3o/%C3%A1gua/agua-na-carbon/)
 
