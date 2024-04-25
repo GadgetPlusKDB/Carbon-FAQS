@@ -20,7 +20,7 @@ hide:
 
     ---
 
-    Nesta secção encontra tudo o que precisa sobre os manuais da Carbon assim como fazer donload dos mesmos.
+    Nesta secção encontra tudo o que precisa sobre os manuais da Carbon assim como fazer download dos mesmos.
 
     [:octicons-arrow-right-24: Saber Mais](https://gadgetpluskdb.github.io/Carbon-FAQS/manual/)
 
