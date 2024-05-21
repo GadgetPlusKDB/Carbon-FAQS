@@ -11,7 +11,7 @@
 
     [Studio]: https://gadgetpluskdb.github.io/Carbon-FAQS/studio/instalar-software/
 
-    [Download](https://drive.google.com/file/d/1ZpGXJ9PmYbZm80LpIJZZhfoUxNVPbZFS/view?usp=drive_link){ .md-button target="_blank"}
+    [Download](https://drive.google.com/file/d/1sMmQ-S8c64ZeZL8mtnbAXQutqwtjfCJW/view?usp=sharing){ .md-button target="_blank"}
 
 ## Drivers
 
